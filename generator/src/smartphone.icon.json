@@ -1,0 +1,31 @@
+{
+  "name": "smartphone",
+  "title": "Smartphone",
+  "categories": [
+    "content"
+  ],
+  "keywords": [
+    "mobile",
+    "phone",
+    "device",
+    "responsive"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        6,
+        2,
+        12,
+        20
+      ]
+    },
+    {
+      "line": [
+        10,
+        18,
+        14,
+        18
+      ]
+    }
+  ]
+}

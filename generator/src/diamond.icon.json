@@ -1,0 +1,36 @@
+{
+  "name": "diamond",
+  "title": "Diamond",
+  "categories": [
+    "shapes"
+  ],
+  "keywords": [
+    "decision",
+    "rhombus",
+    "flowchart"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          12,
+          2
+        ],
+        [
+          21,
+          12
+        ],
+        [
+          12,
+          22
+        ],
+        [
+          3,
+          12
+        ]
+      ],
+      "close": true,
+      "corner": 1.5
+    }
+  ]
+}

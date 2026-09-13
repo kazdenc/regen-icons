@@ -1,0 +1,47 @@
+{
+  "name": "send",
+  "title": "Send",
+  "categories": [
+    "actions",
+    "agent"
+  ],
+  "keywords": [
+    "submit",
+    "prompt",
+    "paper plane",
+    "run",
+    "deliver"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          3,
+          10
+        ],
+        [
+          21,
+          3
+        ],
+        [
+          14,
+          21
+        ],
+        [
+          10,
+          14
+        ]
+      ],
+      "close": true,
+      "corner": 1
+    },
+    {
+      "line": [
+        10,
+        14,
+        17,
+        7
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "video",
+  "title": "Video",
+  "categories": [
+    "controls",
+    "content"
+  ],
+  "keywords": [
+    "camera",
+    "meeting",
+    "recording",
+    "call"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        3,
+        6,
+        12,
+        12
+      ]
+    },
+    {
+      "polyline": [
+        [
+          15,
+          10
+        ],
+        [
+          21,
+          7
+        ],
+        [
+          21,
+          17
+        ],
+        [
+          15,
+          14
+        ]
+      ],
+      "close": true,
+      "corner": 1
+    }
+  ]
+}

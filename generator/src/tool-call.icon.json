@@ -1,0 +1,2 @@
+{"name":"tool-call","title":"Tool call","categories":["agent"],"keywords":["invoke","function call","run","command","terminal","execute"],
+  "shapes": [{"rect":[3,5,18,14]},{"polyline":[[7,9],[10,12],[7,15]],"corner":1},{"line":[13,15,17,15]}] }

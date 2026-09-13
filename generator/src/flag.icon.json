@@ -1,0 +1,2 @@
+{ "name": "flag", "title": "Flag", "categories": ["status", "actions"], "keywords": ["milestone", "report", "mark", "issue", "raise"],
+  "shapes": [{ "line": [5, 3, 5, 21] }, { "polyline": [[5, 4], [20.5, 8], [5, 12]], "close": true, "corner": 1 }] }

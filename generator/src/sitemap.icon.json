@@ -1,0 +1,2 @@
+{ "name": "sitemap", "title": "Site map", "categories": ["content", "navigation"], "keywords": ["information architecture", "hierarchy", "structure", "tree", "pages", "ia"],
+  "shapes": [{ "rect": [9, 3, 6, 5] }, { "rect": [3, 16, 6, 5] }, { "rect": [15, 16, 6, 5] }, { "line": [12, 8, 12, 12] }, { "polyline": [[6, 16], [6, 12], [18, 12], [18, 16]] }] }

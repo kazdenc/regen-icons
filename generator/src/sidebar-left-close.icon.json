@@ -1,0 +1,38 @@
+{
+  "name": "sidebar-left-close",
+  "title": "Close left sidebar",
+  "categories": [
+    "navigation",
+    "controls"
+  ],
+  "keywords": [
+    "sidebar",
+    "panel",
+    "left",
+    "close",
+    "collapse",
+    "drawer"
+  ],
+  "shapes": [
+    {
+      "use": "sidebar"
+    },
+    {
+      "polyline": [
+        [
+          16,
+          9
+        ],
+        [
+          13.5,
+          12
+        ],
+        [
+          16,
+          15
+        ]
+      ],
+      "corner": 1
+    }
+  ]
+}

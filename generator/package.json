@@ -1,0 +1,23 @@
+{
+  "name": "lino-icons-source",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Source, generator, and drawing language for Lino Icons. Publishes lino-icons from dist/package.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "build": "node .dev/scripts/build-icons.mjs",
+    "build:package": "node .dev/scripts/build-package.mjs",
+    "preview": "node .dev/scripts/preview.mjs",
+    "check": "node .dev/scripts/build-icons.mjs --check",
+    "test": "node .dev/scripts/build-package.mjs && node --test .dev/test/workflow.test.mjs"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.18",
+    "paper": "^0.12.18",
+    "playwright": "^1.63.0",
+    "react": "^19.2.8",
+    "typescript": "^5.9.3"
+  },
+  "packageManager": "pnpm@10.33.0+sha512.10568bb4a6afb58c9eb3630da90cc9516417abebd3fabbe6739f0ae795728da1491e9db5a544c76ad8eb7570f5c4bb3d6c637b2cb41bfdcdb47fa823c8649319"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "battery-low",
+  "title": "Low battery",
+  "categories": [
+    "status"
+  ],
+  "keywords": [
+    "charge",
+    "empty",
+    "power",
+    "energy"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        2,
+        7,
+        17,
+        10
+      ]
+    },
+    {
+      "line": [
+        22,
+        10,
+        22,
+        14
+      ]
+    },
+    {
+      "line": [
+        6,
+        10,
+        6,
+        14
+      ]
+    }
+  ],
+  "fill": "none"
+}

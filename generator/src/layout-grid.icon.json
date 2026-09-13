@@ -1,0 +1,2 @@
+{ "name": "layout-grid", "title": "Grid", "categories": ["content", "entry-types"], "keywords": ["pattern", "tiles", "cards", "layout", "apps"],
+  "shapes": [{ "rect": [3, 3, 7.5, 7.5] }, { "rect": [13.5, 3, 7.5, 7.5] }, { "rect": [3, 13.5, 7.5, 7.5] }, { "rect": [13.5, 13.5, 7.5, 7.5] }] }

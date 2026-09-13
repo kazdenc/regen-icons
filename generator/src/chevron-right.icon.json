@@ -1,0 +1,2 @@
+{ "name": "chevron-right", "title": "Chevron right", "categories": ["navigation"], "keywords": ["next", "forward", "caret", "disclosure"],
+  "shapes": [{ "polyline": [[8.5, 5], [15.5, 12], [8.5, 19]], "corner": 1 }] }

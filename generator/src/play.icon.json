@@ -1,0 +1,2 @@
+{ "name": "play", "title": "Play", "categories": ["actions", "controls"], "keywords": ["run", "start", "resume", "continue", "media"],
+  "shapes": [{ "polyline": [[7, 4], [20, 12], [7, 20]], "close": true, "corner": 1 }] }

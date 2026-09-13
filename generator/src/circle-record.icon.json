@@ -1,0 +1,26 @@
+{
+  "name": "circle-record",
+  "title": "Circle record",
+  "categories": [
+    "controls",
+    "actions"
+  ],
+  "keywords": [
+    "media",
+    "capture",
+    "record",
+    "recording"
+  ],
+  "shapes": [
+    {
+      "use": "circle-frame"
+    },
+    {
+      "circle": [
+        12,
+        12,
+        3
+      ]
+    }
+  ]
+}

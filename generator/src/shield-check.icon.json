@@ -1,0 +1,36 @@
+{
+  "name": "shield-check",
+  "title": "Shield check",
+  "categories": [
+    "agent",
+    "status"
+  ],
+  "keywords": [
+    "verified",
+    "secure",
+    "protection",
+    "trusted"
+  ],
+  "shapes": [
+    {
+      "use": "shield"
+    },
+    {
+      "polyline": [
+        [
+          8,
+          11
+        ],
+        [
+          11,
+          14
+        ],
+        [
+          16,
+          9
+        ]
+      ],
+      "corner": 1
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "repeat",
+  "title": "Repeat",
+  "categories": ["actions", "controls"],
+  "keywords": ["loop", "again", "cycle", "recurring", "replay"],
+  "shapes": [
+    { "arrow": [4, 8, 20, 8], "head": 4 },
+    { "arrow": [20, 16, 4, 16], "head": 4 }
+  ]
+}

@@ -1,0 +1,2 @@
+{ "name": "align-center", "title": "Align centre", "categories": ["controls"], "keywords": ["paragraph", "lines", "align", "text", "centre"],
+  "shapes": [{ "line": [4, 6, 20, 6] }, { "line": [7, 12, 17, 12] }, { "line": [6, 18, 18, 18] }] }

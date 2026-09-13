@@ -1,0 +1,36 @@
+{
+  "name": "panel-top-open",
+  "title": "Open top panel",
+  "categories": [
+    "navigation",
+    "controls"
+  ],
+  "keywords": [
+    "sidebar",
+    "drawer",
+    "expand",
+    "top"
+  ],
+  "shapes": [
+    {
+      "use": "panel-top"
+    },
+    {
+      "polyline": [
+        [
+          9,
+          14
+        ],
+        [
+          12,
+          16.5
+        ],
+        [
+          15,
+          14
+        ]
+      ],
+      "corner": 1
+    }
+  ]
+}

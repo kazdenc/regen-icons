@@ -1,0 +1,50 @@
+{
+  "name": "pin",
+  "title": "Location",
+  "categories": [
+    "content",
+    "status"
+  ],
+  "keywords": [
+    "map",
+    "place",
+    "marker",
+    "where",
+    "pinned"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          12,
+          21
+        ],
+        [
+          6.5,
+          14
+        ],
+        {
+          "to": [
+            17.5,
+            14
+          ],
+          "r": 7,
+          "large": true
+        },
+        [
+          12,
+          21
+        ]
+      ],
+      "close": true,
+      "corner": 1
+    },
+    {
+      "circle": [
+        12,
+        10,
+        2.5
+      ]
+    }
+  ]
+}

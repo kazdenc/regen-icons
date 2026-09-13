@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "title": "Server",
+  "categories": ["agent", "content"],
+  "keywords": ["hosting", "infrastructure", "compute", "rack", "backend"],
+  "shapes": [
+    { "rect": [3, 3, 18, 7] },
+    { "rect": [3, 13, 18, 8] },
+    { "dot": [7, 6.5] },
+    { "line": [11, 6.5, 17, 6.5] },
+    { "dot": [7, 17] },
+    { "line": [11, 17, 17, 17] }
+  ]
+}

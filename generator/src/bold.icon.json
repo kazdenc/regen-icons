@@ -1,0 +1,2 @@
+{ "name": "bold", "title": "Bold", "categories": ["controls"], "keywords": ["text", "weight", "strong", "toolbar"],
+  "shapes": [{ "line": [7, 4, 7, 20] }, { "line": [7, 4, 12, 4] }, { "arc": [12, 8, 4, 270, 90] }, { "line": [7, 12, 12, 12] }, { "line": [7, 20, 13, 20] }, { "arc": [13, 16, 4, 270, 90] }] }

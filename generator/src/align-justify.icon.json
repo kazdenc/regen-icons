@@ -1,0 +1,41 @@
+{
+  "name": "align-justify",
+  "title": "Justify text",
+  "categories": [
+    "controls",
+    "content"
+  ],
+  "keywords": [
+    "text",
+    "paragraph",
+    "formatting",
+    "alignment"
+  ],
+  "shapes": [
+    {
+      "line": [
+        4,
+        6,
+        20,
+        6
+      ]
+    },
+    {
+      "line": [
+        4,
+        12,
+        20,
+        12
+      ]
+    },
+    {
+      "line": [
+        4,
+        18,
+        20,
+        18
+      ]
+    }
+  ],
+  "fill": "none"
+}

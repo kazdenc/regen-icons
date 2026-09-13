@@ -1,0 +1,2 @@
+{ "name": "user-plus", "title": "Add user", "categories": ["actions", "controls"], "keywords": ["invite", "add", "person", "member", "account", "new"],
+  "shapes": [{ "circle": [9, 7, 4] }, { "arc": [9, 21, 7, 180, 0] }, { "line": [19, 8, 19, 14] }, { "line": [16, 11, 22, 11] }] }

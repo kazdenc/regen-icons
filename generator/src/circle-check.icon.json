@@ -1,0 +1,1 @@
+{"name": "circle-check", "title": "Success", "categories": ["status"], "keywords": ["success", "done", "complete", "verified"], "shapes": [{"use": "circle-frame"}, {"polyline": [[7.5, 12], [10.5, 15], [16.5, 9]]}]}

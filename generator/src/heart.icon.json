@@ -1,0 +1,56 @@
+{
+  "name": "heart",
+  "title": "Favourite",
+  "categories": [
+    "actions",
+    "status"
+  ],
+  "keywords": [
+    "favorite",
+    "like",
+    "love",
+    "saved"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          12,
+          20
+        ],
+        [
+          4,
+          12
+        ],
+        {
+          "to": [
+            11,
+            5
+          ],
+          "r": 5
+        },
+        [
+          12,
+          6
+        ],
+        [
+          13,
+          5
+        ],
+        {
+          "to": [
+            20,
+            12
+          ],
+          "r": 5
+        },
+        [
+          12,
+          20
+        ]
+      ],
+      "close": true,
+      "corner": 1
+    }
+  ]
+}

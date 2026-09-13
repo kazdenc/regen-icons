@@ -1,0 +1,2 @@
+{ "name": "users", "title": "Users", "categories": ["controls"], "keywords": ["people", "team", "group", "members"],
+  "shapes": [{ "circle": [9, 7, 4] }, { "arc": [9, 21, 7, 180, 0] }, { "arc": [15, 7, 4, 270, 90] }, { "arc": [15, 21, 7, 270, 0] }] }

@@ -1,0 +1,38 @@
+{
+  "name": "sidebar-left-open",
+  "title": "Open left sidebar",
+  "categories": [
+    "navigation",
+    "controls"
+  ],
+  "keywords": [
+    "sidebar",
+    "panel",
+    "left",
+    "open",
+    "expand",
+    "drawer"
+  ],
+  "shapes": [
+    {
+      "use": "sidebar"
+    },
+    {
+      "polyline": [
+        [
+          14,
+          9
+        ],
+        [
+          16.5,
+          12
+        ],
+        [
+          14,
+          15
+        ]
+      ],
+      "corner": 1
+    }
+  ]
+}

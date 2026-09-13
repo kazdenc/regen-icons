@@ -1,0 +1,73 @@
+{
+  "name": "layers",
+  "title": "Context",
+  "categories": [
+    "agent",
+    "content"
+  ],
+  "keywords": [
+    "context",
+    "stack",
+    "window",
+    "sources",
+    "levels"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          12,
+          3
+        ],
+        [
+          21,
+          7.5
+        ],
+        [
+          12,
+          12
+        ],
+        [
+          3,
+          7.5
+        ]
+      ],
+      "close": true,
+      "corner": 1
+    },
+    {
+      "polyline": [
+        [
+          3,
+          12.5
+        ],
+        [
+          12,
+          17
+        ],
+        [
+          21,
+          12.5
+        ]
+      ],
+      "corner": 1
+    },
+    {
+      "polyline": [
+        [
+          3,
+          17
+        ],
+        [
+          12,
+          21.5
+        ],
+        [
+          21,
+          17
+        ]
+      ],
+      "corner": 1
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+{ "name": "circle-frame", "title": "Circle", "categories": ["shapes"], "keywords": ["ring", "frame", "base"],
+  "shapes": [{ "circle": [12, 12, 9] }] }

@@ -1,0 +1,45 @@
+{
+  "name": "log-in",
+  "title": "Log in",
+  "categories": [
+    "actions",
+    "navigation"
+  ],
+  "keywords": [
+    "account",
+    "session",
+    "sign in"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          10,
+          4
+        ],
+        [
+          19,
+          4
+        ],
+        [
+          19,
+          20
+        ],
+        [
+          10,
+          20
+        ]
+      ]
+    },
+    {
+      "arrow": [
+        3,
+        12,
+        14,
+        12
+      ],
+      "head": 4
+    }
+  ],
+  "fill": "none"
+}

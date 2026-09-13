@@ -1,0 +1,2 @@
+{ "name": "shift", "title": "Shift", "categories": ["controls"], "keywords": ["keyboard", "modifier", "shift key", "uppercase"],
+  "shapes": [{ "polyline": [[12, 4], [20, 12], [15, 12], [15, 20], [9, 20], [9, 12], [4, 12]], "close": true, "corner": 1 }] }

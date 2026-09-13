@@ -1,0 +1,2 @@
+{ "name": "square-x", "title": "Reject", "categories": ["agent", "status"], "keywords": ["reject", "deny", "decline", "blocked", "cancel"],
+  "shapes": [{ "rect": [3, 3, 18, 18] }, { "line": [8, 8, 16, 16] }, { "line": [8, 16, 16, 8] }] }

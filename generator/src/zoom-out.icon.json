@@ -1,0 +1,2 @@
+{ "name": "zoom-out", "title": "Zoom out", "categories": ["controls", "navigation"], "keywords": ["magnify", "further", "shrink", "overview", "scale down"],
+  "shapes": [{ "circle": [10, 10, 7] }, { "line": [15, 15, 21, 21] }, { "line": [7, 10, 13, 10] }] }

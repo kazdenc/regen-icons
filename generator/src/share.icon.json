@@ -1,0 +1,2 @@
+{ "name": "share", "title": "Share", "categories": ["actions"], "keywords": ["send", "distribute", "publish", "nodes", "graph"],
+  "shapes": [{ "circle": [6, 12, 3] }, { "circle": [18, 6, 3] }, { "circle": [18, 18, 3] }, { "line": [8.5, 10.5, 15.5, 7.5] }, { "line": [8.5, 13.5, 15.5, 16.5] }] }

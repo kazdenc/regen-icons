@@ -1,0 +1,2 @@
+{"name":"ruler","title":"Measure","categories":["content","controls"],"keywords":["spacing","size","scale","grid","dimension","layout"],
+  "shapes": [{"rect":[2.5,8,19,8]},{"line":[7,8,7,12]},{"line":[11,8,11,10.5]},{"line":[15,8,15,12]}] }

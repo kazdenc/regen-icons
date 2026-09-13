@@ -1,0 +1,2 @@
+{ "name": "undo", "title": "Undo", "categories": ["actions"], "keywords": ["back", "revert", "history", "step back", "cancel"],
+  "shapes": [{ "polyline": [[8, 6], [4, 10], [8, 14]], "corner": 1 }, { "polyline": [[4, 10], [14, 10], { "to": [14, 18], "r": 4 }, [9, 18]] }] }

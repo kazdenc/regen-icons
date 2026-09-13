@@ -1,0 +1,10 @@
+{
+  "name": "square-minus",
+  "title": "Remove from square",
+  "categories": ["actions", "status"],
+  "keywords": ["remove", "subtract", "collapse", "negative", "badge"],
+  "shapes": [
+    { "rect": [3, 3, 18, 18] },
+    { "line": [7, 12, 17, 12] }
+  ]
+}

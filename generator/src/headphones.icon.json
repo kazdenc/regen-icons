@@ -1,0 +1,40 @@
+{
+  "name": "headphones",
+  "title": "Headphones",
+  "categories": [
+    "controls"
+  ],
+  "keywords": [
+    "audio",
+    "listen",
+    "support",
+    "music"
+  ],
+  "shapes": [
+    {
+      "arc": [
+        12,
+        11,
+        9,
+        180,
+        0
+      ]
+    },
+    {
+      "rect": [
+        3,
+        11,
+        5,
+        9
+      ]
+    },
+    {
+      "rect": [
+        16,
+        11,
+        5,
+        9
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "circle-play",
+  "title": "Circle play",
+  "categories": [
+    "actions",
+    "controls"
+  ],
+  "keywords": [
+    "media",
+    "start",
+    "run",
+    "playback"
+  ],
+  "shapes": [
+    {
+      "use": "circle-frame"
+    },
+    {
+      "polyline": [
+        [
+          10,
+          7
+        ],
+        [
+          17,
+          12
+        ],
+        [
+          10,
+          17
+        ]
+      ],
+      "close": true,
+      "corner": 1
+    }
+  ]
+}

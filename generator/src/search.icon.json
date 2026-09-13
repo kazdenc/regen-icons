@@ -1,0 +1,2 @@
+{ "name": "search", "title": "Search", "categories": ["navigation"], "keywords": ["find", "magnifier", "lookup"],
+  "shapes": [{ "circle": [10, 10, 7] }, { "line": [15, 15, 21, 21] }] }

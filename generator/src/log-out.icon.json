@@ -1,0 +1,45 @@
+{
+  "name": "log-out",
+  "title": "Log out",
+  "categories": [
+    "actions",
+    "navigation"
+  ],
+  "keywords": [
+    "account",
+    "session",
+    "sign out"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          14,
+          4
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          5,
+          20
+        ],
+        [
+          14,
+          20
+        ]
+      ]
+    },
+    {
+      "arrow": [
+        10,
+        12,
+        21,
+        12
+      ],
+      "head": 4
+    }
+  ],
+  "fill": "none"
+}

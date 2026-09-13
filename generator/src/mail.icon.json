@@ -1,0 +1,2 @@
+{ "name": "mail", "title": "Mail", "categories": ["content", "controls"], "keywords": ["email", "message", "inbox", "envelope", "contact"],
+  "shapes": [{ "rect": [3, 5, 18, 14] }, { "polyline": [[4, 6.5], [12, 13], [20, 6.5]], "corner": 1 }] }

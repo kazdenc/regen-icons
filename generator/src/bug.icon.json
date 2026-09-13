@@ -1,0 +1,2 @@
+{ "name": "bug", "title": "Bug", "categories": ["status", "content"], "keywords": ["defect", "issue", "error", "debug", "fault"],
+  "shapes": [{ "rect": [8, 6, 8, 13], "radius": 4 }, { "line": [9.5, 6, 8, 3] }, { "line": [14.5, 6, 16, 3] }, { "line": [8, 9.5, 5, 9.5] }, { "line": [8, 16, 5, 16] }, { "line": [16, 9.5, 19, 9.5] }, { "line": [16, 16, 19, 16] }] }

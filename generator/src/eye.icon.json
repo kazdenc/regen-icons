@@ -1,0 +1,2 @@
+{ "name": "eye", "title": "Review", "categories": ["agent", "controls"], "keywords": ["review", "needs review", "watch", "visible", "preview", "show"],
+  "shapes": [{ "bend": [3, 12, 21, 12, 9.5], "flip": true }, { "bend": [3, 12, 21, 12, 9.5] }, { "circle": [12, 12, 2.5] }] }

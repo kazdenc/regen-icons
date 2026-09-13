@@ -1,0 +1,2 @@
+{ "name": "globe", "title": "Global", "categories": ["content", "status"], "keywords": ["web", "world", "language", "locale", "internationalisation", "public"],
+  "shapes": [{ "use": "circle-frame" }, { "ellipse": [12, 12, 4.5, 9] }, { "line": [3, 12, 21, 12] }] }

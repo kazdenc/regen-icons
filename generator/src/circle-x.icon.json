@@ -1,0 +1,11 @@
+{
+  "name": "circle-x",
+  "title": "Dismiss",
+  "categories": ["actions", "status"],
+  "keywords": ["close", "cancel", "clear", "remove", "error", "badge"],
+  "shapes": [
+    { "use": "circle-frame" },
+    { "line": [8.5, 8.5, 15.5, 15.5] },
+    { "line": [8.5, 15.5, 15.5, 8.5] }
+  ]
+}

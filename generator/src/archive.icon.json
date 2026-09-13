@@ -1,0 +1,52 @@
+{
+  "name": "archive",
+  "title": "Archive",
+  "categories": [
+    "content"
+  ],
+  "keywords": [
+    "storage",
+    "box",
+    "file",
+    "save"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        3,
+        3,
+        18,
+        5
+      ],
+      "radius": 1
+    },
+    {
+      "polyline": [
+        [
+          5,
+          8
+        ],
+        [
+          5,
+          21
+        ],
+        [
+          19,
+          21
+        ],
+        [
+          19,
+          8
+        ]
+      ]
+    },
+    {
+      "line": [
+        10,
+        13,
+        14,
+        13
+      ]
+    }
+  ]
+}

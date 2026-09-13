@@ -1,0 +1,68 @@
+{
+  "name": "mic",
+  "title": "Voice",
+  "categories": [
+    "controls",
+    "agent"
+  ],
+  "keywords": [
+    "microphone",
+    "record",
+    "speech",
+    "dictate",
+    "audio",
+    "listen"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        9,
+        2,
+        6,
+        11
+      ],
+      "radius": 3
+    },
+    {
+      "arc": [
+        12,
+        12,
+        6,
+        0,
+        180
+      ]
+    },
+    {
+      "line": [
+        6,
+        10,
+        6,
+        12
+      ]
+    },
+    {
+      "line": [
+        18,
+        10,
+        18,
+        12
+      ]
+    },
+    {
+      "line": [
+        12,
+        18,
+        12,
+        22
+      ]
+    },
+    {
+      "line": [
+        8,
+        22,
+        16,
+        22
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "name": "laptop",
+  "title": "Laptop",
+  "categories": [
+    "content",
+    "controls"
+  ],
+  "keywords": [
+    "computer",
+    "device",
+    "desktop",
+    "notebook",
+    "screen"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          5,
+          16
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          19,
+          4
+        ],
+        [
+          19,
+          16
+        ]
+      ]
+    },
+    {
+      "polyline": [
+        [
+          2,
+          16
+        ],
+        [
+          22,
+          16
+        ],
+        [
+          20,
+          20
+        ],
+        [
+          4,
+          20
+        ]
+      ],
+      "close": true,
+      "corner": 1
+    }
+  ],
+  "filled": [
+    {
+      "rect": [
+        5,
+        4,
+        14,
+        12
+      ]
+    },
+    {
+      "polyline": [
+        [
+          2,
+          16
+        ],
+        [
+          22,
+          16
+        ],
+        [
+          20,
+          20
+        ],
+        [
+          4,
+          20
+        ]
+      ],
+      "close": true,
+      "corner": 1
+    }
+  ]
+}

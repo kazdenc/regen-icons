@@ -1,0 +1,2 @@
+{ "name": "camera", "title": "Camera", "categories": ["content", "controls"], "keywords": ["photo", "capture", "screenshot", "shoot", "lens"],
+  "shapes": [{ "rect": [3, 6, 18, 14] }, { "circle": [12, 13, 4] }, { "polyline": [[8, 6], [9.5, 3], [14.5, 3], [16, 6]], "corner": 1 }] }

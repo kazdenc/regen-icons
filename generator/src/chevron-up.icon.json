@@ -1,0 +1,2 @@
+{ "name": "chevron-up", "title": "Chevron up", "categories": ["navigation"], "keywords": ["collapse", "close", "caret"],
+  "shapes": [{ "polyline": [[5, 15.5], [12, 8.5], [19, 15.5]], "corner": 1 }] }

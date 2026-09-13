@@ -1,0 +1,49 @@
+{
+  "name": "key",
+  "title": "Credential",
+  "categories": [
+    "agent",
+    "status"
+  ],
+  "keywords": [
+    "secret",
+    "token",
+    "api key",
+    "auth",
+    "access",
+    "password"
+  ],
+  "shapes": [
+    {
+      "circle": [
+        8,
+        8,
+        5
+      ]
+    },
+    {
+      "line": [
+        11.5,
+        11.5,
+        19.5,
+        19.5
+      ]
+    },
+    {
+      "line": [
+        16.5,
+        16.5,
+        14,
+        19
+      ]
+    },
+    {
+      "line": [
+        19.5,
+        19.5,
+        17,
+        22
+      ]
+    }
+  ]
+}

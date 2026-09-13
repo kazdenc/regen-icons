@@ -1,0 +1,36 @@
+{
+  "name": "sidebar",
+  "title": "Sidebar",
+  "categories": [
+    "content",
+    "navigation"
+  ],
+  "keywords": [
+    "layout",
+    "panel",
+    "rail",
+    "navigation",
+    "drawer",
+    "sidebar",
+    "left",
+    "orientation"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        3,
+        4,
+        18,
+        16
+      ]
+    },
+    {
+      "line": [
+        9,
+        4,
+        9,
+        20
+      ]
+    }
+  ]
+}

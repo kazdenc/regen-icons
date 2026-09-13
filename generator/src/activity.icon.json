@@ -1,0 +1,2 @@
+{ "name": "activity", "title": "Activity", "categories": ["agent", "status"], "keywords": ["log", "pulse", "events", "history", "timeline", "health"],
+  "shapes": [{ "polyline": [[3, 12], [7, 12], [10, 5], [14, 19], [17, 12], [21, 12]], "corner": 1 }] }

@@ -1,0 +1,2 @@
+{ "name": "alert-triangle", "title": "Warning", "categories": ["status"], "keywords": ["warning", "caution", "alert", "danger"],
+  "shapes": [{ "polyline": [[12, 4], [21, 20], [3, 20]], "close": true }, { "line": [12, 10, 12, 14] }, { "dot": [12, 17] }] }

@@ -1,0 +1,51 @@
+{
+  "name": "at-sign",
+  "title": "At sign",
+  "categories": [
+    "content",
+    "controls"
+  ],
+  "keywords": [
+    "email",
+    "mention",
+    "address",
+    "contact"
+  ],
+  "shapes": [
+    {
+      "circle": [
+        12,
+        12,
+        4
+      ]
+    },
+    {
+      "line": [
+        16,
+        8,
+        16,
+        12
+      ]
+    },
+    {
+      "bend": [
+        16,
+        12,
+        21,
+        12,
+        2.5
+      ],
+      "flip": true
+    },
+    {
+      "arc": [
+        12,
+        12,
+        9,
+        45,
+        360
+      ]
+    }
+  ],
+  "fill": "none"
+}

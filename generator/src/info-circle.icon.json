@@ -1,0 +1,2 @@
+{ "name": "info-circle", "title": "Info", "categories": ["status"], "keywords": ["information", "help", "note"],
+  "shapes": [{ "circle": [12, 12, 9] }, { "dot": [12, 8] }, { "line": [12, 12, 12, 16] }] }

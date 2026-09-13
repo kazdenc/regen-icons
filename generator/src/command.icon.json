@@ -1,0 +1,8 @@
+{ "name": "command", "title": "Command", "categories": ["controls"], "keywords": ["keyboard", "modifier", "cmd", "meta", "mac"],
+  "shapes": [
+    { "polyline": [[9, 9], [9, 15], [15, 15], [15, 9]], "close": true, "join": "miter" },
+    { "polyline": [[9, 9], [9, 6], { "to": [6, 9], "r": 3, "large": true, "flip": true }, [9, 9]] },
+    { "polyline": [[15, 9], [18, 9], { "to": [15, 6], "r": 3, "large": true, "flip": true }, [15, 9]] },
+    { "polyline": [[15, 15], [15, 18], { "to": [18, 15], "r": 3, "large": true, "flip": true }, [15, 15]] },
+    { "polyline": [[9, 15], [6, 15], { "to": [9, 18], "r": 3, "large": true, "flip": true }, [9, 15]] }
+  ] }

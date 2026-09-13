@@ -1,0 +1,2 @@
+{ "name": "clock", "title": "Time", "categories": ["status", "content"], "keywords": ["time", "duration", "recent", "history", "wait", "latency"],
+  "shapes": [{ "use": "circle-frame" }, { "polyline": [[12, 6.5], [12, 12], [16, 14]] }] }

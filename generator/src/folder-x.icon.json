@@ -1,0 +1,61 @@
+{
+  "name": "folder-x",
+  "title": "Folder x",
+  "categories": [
+    "content",
+    "status"
+  ],
+  "keywords": [
+    "directory",
+    "rejected",
+    "error",
+    "cancel"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          3,
+          5
+        ],
+        [
+          9,
+          5
+        ],
+        [
+          11,
+          7
+        ],
+        [
+          21,
+          7
+        ],
+        [
+          21,
+          19
+        ],
+        [
+          3,
+          19
+        ]
+      ],
+      "close": true
+    },
+    {
+      "line": [
+        9,
+        10,
+        15,
+        16
+      ]
+    },
+    {
+      "line": [
+        15,
+        10,
+        9,
+        16
+      ]
+    }
+  ]
+}

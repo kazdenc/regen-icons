@@ -1,0 +1,2 @@
+{ "name": "user", "title": "User", "categories": ["controls"], "keywords": ["person", "account", "profile", "avatar"],
+  "shapes": [{ "circle": [12, 7, 4] }, { "arc": [12, 21, 7, 180, 0] }] }

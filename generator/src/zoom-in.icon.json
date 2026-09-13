@@ -1,0 +1,2 @@
+{ "name": "zoom-in", "title": "Zoom in", "categories": ["controls", "navigation"], "keywords": ["magnify", "closer", "enlarge", "detail", "scale up"],
+  "shapes": [{ "circle": [10, 10, 7] }, { "line": [15, 15, 21, 21] }, { "line": [7, 10, 13, 10] }, { "line": [10, 7, 10, 13] }] }

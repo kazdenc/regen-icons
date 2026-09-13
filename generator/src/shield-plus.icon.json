@@ -1,0 +1,35 @@
+{
+  "name": "shield-plus",
+  "title": "Shield plus",
+  "categories": [
+    "status",
+    "agent"
+  ],
+  "keywords": [
+    "protect",
+    "add",
+    "permission",
+    "policy"
+  ],
+  "shapes": [
+    {
+      "use": "shield"
+    },
+    {
+      "line": [
+        8,
+        12,
+        16,
+        12
+      ]
+    },
+    {
+      "line": [
+        12,
+        8,
+        12,
+        16
+      ]
+    }
+  ]
+}

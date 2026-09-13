@@ -1,0 +1,39 @@
+{
+  "name": "monitor",
+  "title": "Monitor",
+  "categories": [
+    "content"
+  ],
+  "keywords": [
+    "desktop",
+    "screen",
+    "display",
+    "computer"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        2,
+        3,
+        20,
+        14
+      ]
+    },
+    {
+      "line": [
+        12,
+        17,
+        12,
+        21
+      ]
+    },
+    {
+      "line": [
+        8,
+        21,
+        16,
+        21
+      ]
+    }
+  ]
+}

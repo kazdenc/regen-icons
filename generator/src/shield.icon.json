@@ -1,0 +1,53 @@
+{
+  "name": "shield",
+  "title": "Guardrail",
+  "categories": [
+    "agent",
+    "status"
+  ],
+  "keywords": [
+    "safety",
+    "guardrail",
+    "protection",
+    "policy",
+    "trust",
+    "secure"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          4,
+          6
+        ],
+        [
+          12,
+          3
+        ],
+        [
+          20,
+          6
+        ],
+        [
+          20,
+          10
+        ],
+        {
+          "to": [
+            12,
+            21
+          ],
+          "r": 14
+        },
+        {
+          "to": [
+            4,
+            10
+          ],
+          "r": 14
+        }
+      ],
+      "close": true
+    }
+  ]
+}

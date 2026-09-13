@@ -1,0 +1,39 @@
+{
+  "name": "credit-card",
+  "title": "Credit card",
+  "categories": [
+    "content"
+  ],
+  "keywords": [
+    "payment",
+    "billing",
+    "checkout",
+    "purchase"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        2,
+        4,
+        20,
+        16
+      ]
+    },
+    {
+      "line": [
+        2,
+        9,
+        22,
+        9
+      ]
+    },
+    {
+      "line": [
+        6,
+        15,
+        10,
+        15
+      ]
+    }
+  ]
+}

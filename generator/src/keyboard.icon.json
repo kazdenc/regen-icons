@@ -1,0 +1,80 @@
+{
+  "name": "keyboard",
+  "title": "Keyboard",
+  "categories": [
+    "content",
+    "controls"
+  ],
+  "keywords": [
+    "input",
+    "typing",
+    "keys",
+    "shortcut"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        2,
+        5,
+        20,
+        14
+      ]
+    },
+    {
+      "dot": [
+        6,
+        9
+      ]
+    },
+    {
+      "dot": [
+        10,
+        9
+      ]
+    },
+    {
+      "dot": [
+        14,
+        9
+      ]
+    },
+    {
+      "dot": [
+        18,
+        9
+      ]
+    },
+    {
+      "dot": [
+        6,
+        13
+      ]
+    },
+    {
+      "dot": [
+        10,
+        13
+      ]
+    },
+    {
+      "dot": [
+        14,
+        13
+      ]
+    },
+    {
+      "dot": [
+        18,
+        13
+      ]
+    },
+    {
+      "line": [
+        9,
+        16,
+        15,
+        16
+      ]
+    }
+  ]
+}

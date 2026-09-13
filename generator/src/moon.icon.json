@@ -1,0 +1,2 @@
+{ "name": "moon", "title": "Dark theme", "categories": ["controls", "status"], "keywords": ["dark", "night", "theme", "mode", "crescent"],
+  "shapes": [{ "polyline": [[16, 3], { "to": [16, 21], "r": 9, "flip": true }, { "to": [16, 3], "r": 18 }], "close": true }] }

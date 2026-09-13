@@ -1,0 +1,48 @@
+{
+  "name": "unlock",
+  "title": "Unlocked",
+  "categories": [
+    "agent",
+    "status"
+  ],
+  "keywords": [
+    "permission",
+    "open",
+    "public",
+    "access",
+    "unsecured"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        5,
+        11,
+        14,
+        10
+      ]
+    },
+    {
+      "line": [
+        8,
+        11,
+        8,
+        7
+      ]
+    },
+    {
+      "arc": [
+        12,
+        7,
+        4,
+        180,
+        360
+      ]
+    },
+    {
+      "dot": [
+        12,
+        16
+      ]
+    }
+  ]
+}

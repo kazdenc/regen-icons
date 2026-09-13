@@ -1,0 +1,2 @@
+{ "name": "percent", "title": "Percent", "categories": ["content", "shapes"], "keywords": ["discount", "rate", "ratio", "sale", "proportion"],
+  "shapes": [{ "line": [19, 5, 5, 19] }, { "circle": [6.5, 6.5, 2.5] }, { "circle": [17.5, 17.5, 2.5] }] }

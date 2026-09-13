@@ -1,0 +1,2 @@
+{ "name": "circle-alert", "title": "Error", "categories": ["status"], "keywords": ["error", "danger", "problem", "failed", "exclamation"],
+  "shapes": [{ "use": "circle-frame" }, { "line": [12, 8, 12, 13] }, { "dot": [12, 16] }] }

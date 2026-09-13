@@ -1,0 +1,2 @@
+{ "name": "calendar", "title": "Calendar", "categories": ["content", "controls"], "keywords": ["date", "schedule", "month", "day", "when"],
+  "shapes": [{ "rect": [3, 5, 18, 16] }, { "line": [3, 10, 21, 10] }, { "line": [8, 3, 8, 7] }, { "line": [16, 3, 16, 7] }, { "dot": [8, 14] }, { "dot": [12, 14] }, { "dot": [16, 14] }] }

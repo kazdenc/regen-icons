@@ -1,0 +1,2 @@
+{ "name": "zap", "title": "Lightning", "categories": ["status", "actions"], "keywords": ["bolt", "fast", "instant", "energy", "power", "flash"],
+  "shapes": [{ "polyline": [[14, 2], [4, 13.5], [11, 13.5], [10, 22], [20, 10.5], [13, 10.5]], "close": true, "corner": 1 }] }

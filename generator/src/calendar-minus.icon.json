@@ -1,0 +1,56 @@
+{
+  "name": "calendar-minus",
+  "title": "Calendar minus",
+  "categories": [
+    "actions",
+    "content"
+  ],
+  "keywords": [
+    "date",
+    "remove",
+    "cancel",
+    "appointment"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        3,
+        5,
+        18,
+        16
+      ]
+    },
+    {
+      "line": [
+        3,
+        10,
+        21,
+        10
+      ]
+    },
+    {
+      "line": [
+        8,
+        3,
+        8,
+        7
+      ]
+    },
+    {
+      "line": [
+        16,
+        3,
+        16,
+        7
+      ]
+    },
+    {
+      "line": [
+        8,
+        15,
+        16,
+        15
+      ]
+    }
+  ]
+}

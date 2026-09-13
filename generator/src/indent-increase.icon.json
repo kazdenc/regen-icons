@@ -1,0 +1,66 @@
+{
+  "name": "indent-increase",
+  "title": "Indent Increase",
+  "categories": [
+    "controls",
+    "content"
+  ],
+  "keywords": [
+    "text",
+    "paragraph",
+    "formatting",
+    "nesting"
+  ],
+  "shapes": [
+    {
+      "line": [
+        3,
+        4,
+        21,
+        4
+      ]
+    },
+    {
+      "line": [
+        11,
+        10,
+        21,
+        10
+      ]
+    },
+    {
+      "line": [
+        11,
+        15,
+        21,
+        15
+      ]
+    },
+    {
+      "line": [
+        3,
+        20,
+        21,
+        20
+      ]
+    },
+    {
+      "polyline": [
+        [
+          3,
+          9
+        ],
+        [
+          6,
+          12
+        ],
+        [
+          3,
+          15
+        ]
+      ],
+      "corner": 1
+    }
+  ],
+  "fill": "none"
+}

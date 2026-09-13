@@ -1,0 +1,53 @@
+{
+  "name": "volume",
+  "title": "Volume",
+  "categories": [
+    "controls"
+  ],
+  "keywords": [
+    "speaker",
+    "sound",
+    "audio",
+    "unmute"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          3,
+          9
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          12,
+          5
+        ],
+        [
+          12,
+          19
+        ],
+        [
+          7,
+          15
+        ],
+        [
+          3,
+          15
+        ]
+      ],
+      "close": true
+    },
+    {
+      "arc": [
+        12,
+        12,
+        8,
+        -45,
+        45
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+{"name":"photo","title":"Image","categories":["content"],"keywords":["image","picture","media","asset","illustration"],
+  "shapes": [{"rect":[3,5,18,14]},{"dot":[7.5,9]},{"polyline":[[5,16],[10.5,11.5],[14,15],[16.5,12.5],[19,15.5]],"corner":1}] }

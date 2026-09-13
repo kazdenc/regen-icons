@@ -1,0 +1,26 @@
+{
+  "name": "circle-minus",
+  "title": "Circle minus",
+  "categories": [
+    "status"
+  ],
+  "keywords": [
+    "remove",
+    "subtract",
+    "block",
+    "unavailable"
+  ],
+  "shapes": [
+    {
+      "use": "circle-frame"
+    },
+    {
+      "line": [
+        7,
+        12,
+        17,
+        12
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "circle-arrow-up",
+  "title": "Circle arrow up",
+  "categories": [
+    "navigation"
+  ],
+  "keywords": [
+    "up",
+    "top",
+    "direction"
+  ],
+  "shapes": [
+    {
+      "use": "circle-frame"
+    },
+    {
+      "arrow": [
+        12,
+        16,
+        12,
+        8
+      ],
+      "head": 3
+    }
+  ]
+}

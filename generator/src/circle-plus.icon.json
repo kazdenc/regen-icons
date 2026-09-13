@@ -1,0 +1,11 @@
+{
+  "name": "circle-plus",
+  "title": "Add",
+  "categories": ["actions", "status"],
+  "keywords": ["create", "new", "positive", "badge"],
+  "shapes": [
+    { "use": "circle-frame" },
+    { "line": [7, 12, 17, 12] },
+    { "line": [12, 7, 12, 17] }
+  ]
+}

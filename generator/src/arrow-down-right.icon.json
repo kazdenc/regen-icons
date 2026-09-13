@@ -1,0 +1,7 @@
+{
+  "name": "arrow-down-right",
+  "title": "Arrow down right",
+  "categories": ["navigation"],
+  "keywords": ["diagonal", "southeast", "lower right"],
+  "shapes": [{ "arrow": [7, 7, 17, 17] }]
+}

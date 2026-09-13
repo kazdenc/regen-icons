@@ -1,0 +1,2 @@
+{ "name": "stairs", "title": "Career level", "categories": ["entry-types"], "keywords": ["steps", "levels", "growth", "progression", "ladder"],
+  "shapes": [{ "polyline": [[3, 20], [8, 20], [8, 15], [13, 15], [13, 10], [18, 10], [18, 5], [21, 5]], "corner": 1 }] }

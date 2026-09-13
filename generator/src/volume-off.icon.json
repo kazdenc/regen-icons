@@ -1,0 +1,12 @@
+{
+  "name": "volume-off",
+  "title": "Muted",
+  "categories": ["controls", "status"],
+  "keywords": ["mute", "silent", "sound off", "audio off"],
+  "fill": "none",
+  "shapes": [
+    { "polyline": [[4, 9], [8, 9], [13, 5], [13, 19], [8, 15], [4, 15]], "close": true },
+    { "line": [16, 9, 21, 14] },
+    { "line": [21, 9, 16, 14] }
+  ]
+}

@@ -1,0 +1,2 @@
+{ "name": "x", "title": "Close", "categories": ["actions"], "keywords": ["close", "dismiss", "remove", "cancel", "cross"],
+  "shapes": [{ "line": [6, 6, 18, 18] }, { "line": [6, 18, 18, 6] }] }

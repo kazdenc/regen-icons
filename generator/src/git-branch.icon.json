@@ -1,0 +1,2 @@
+{ "name": "git-branch", "title": "Branch", "categories": ["content", "actions"], "keywords": ["version", "variant", "fork", "git", "revision", "alternative"],
+  "shapes": [{ "circle": [7, 5.5, 2.5] }, { "circle": [7, 18.5, 2.5] }, { "circle": [17, 12, 2.5] }, { "line": [7, 8, 7, 16] }, { "line": [9.5, 12, 14.5, 12] }] }

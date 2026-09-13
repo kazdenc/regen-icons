@@ -1,0 +1,2 @@
+{ "name": "arrow-down", "title": "Arrow down", "categories": ["navigation"], "keywords": ["down", "decrease", "falling", "trend"],
+  "shapes": [{ "arrow": [12, 5, 12, 19] }] }

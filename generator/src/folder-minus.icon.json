@@ -1,0 +1,53 @@
+{
+  "name": "folder-minus",
+  "title": "Folder minus",
+  "categories": [
+    "content",
+    "actions"
+  ],
+  "keywords": [
+    "directory",
+    "remove",
+    "delete",
+    "collection"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          3,
+          5
+        ],
+        [
+          9,
+          5
+        ],
+        [
+          11,
+          7
+        ],
+        [
+          21,
+          7
+        ],
+        [
+          21,
+          19
+        ],
+        [
+          3,
+          19
+        ]
+      ],
+      "close": true
+    },
+    {
+      "line": [
+        8,
+        13,
+        16,
+        13
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+{ "name": "chart-pie", "title": "Pie chart", "categories": ["content", "entry-types"], "keywords": ["analytics", "share", "proportion", "graph", "metric", "data"],
+  "shapes": [{ "use": "circle-frame" }, { "line": [12, 3, 12, 12] }, { "line": [12, 12, 20, 8] }] }

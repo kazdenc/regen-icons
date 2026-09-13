@@ -1,0 +1,55 @@
+{
+  "name": "cloud-download",
+  "title": "Cloud download",
+  "categories": [
+    "actions",
+    "content"
+  ],
+  "keywords": [
+    "save",
+    "sync",
+    "storage",
+    "fetch"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          7,
+          16
+        ],
+        {
+          "to": [
+            7,
+            8
+          ],
+          "r": 4
+        },
+        {
+          "to": [
+            17,
+            8
+          ],
+          "r": 5
+        },
+        {
+          "to": [
+            17,
+            16
+          ],
+          "r": 4
+        }
+      ]
+    },
+    {
+      "arrow": [
+        12,
+        11,
+        12,
+        22
+      ],
+      "head": 3
+    }
+  ],
+  "fill": "none"
+}

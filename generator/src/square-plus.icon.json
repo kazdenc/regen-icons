@@ -1,0 +1,11 @@
+{
+  "name": "square-plus",
+  "title": "Add in square",
+  "categories": ["actions", "status"],
+  "keywords": ["create", "new", "positive", "add", "badge"],
+  "shapes": [
+    { "rect": [3, 3, 18, 18] },
+    { "line": [7, 12, 17, 12] },
+    { "line": [12, 7, 12, 17] }
+  ]
+}

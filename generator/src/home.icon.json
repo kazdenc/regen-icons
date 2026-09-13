@@ -1,0 +1,2 @@
+{ "name": "home", "title": "Home", "categories": ["navigation"], "keywords": ["house", "overview", "start", "dashboard"],
+  "shapes": [{ "polyline": [[4, 11], [12, 4], [20, 11]] }, { "polyline": [[6, 10], [6, 20], [18, 20], [18, 10]] }] }

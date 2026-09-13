@@ -1,0 +1,7 @@
+{
+  "name": "arrow-down-left",
+  "title": "Arrow down left",
+  "categories": ["navigation"],
+  "keywords": ["diagonal", "southwest", "lower left"],
+  "shapes": [{ "arrow": [17, 7, 7, 17] }]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "crop",
+  "title": "Crop",
+  "categories": [
+    "actions",
+    "controls"
+  ],
+  "keywords": [
+    "image",
+    "trim",
+    "resize",
+    "photo"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          7,
+          3
+        ],
+        [
+          7,
+          17
+        ],
+        [
+          21,
+          17
+        ]
+      ]
+    },
+    {
+      "polyline": [
+        [
+          3,
+          7
+        ],
+        [
+          17,
+          7
+        ],
+        [
+          17,
+          21
+        ]
+      ]
+    }
+  ],
+  "fill": "none"
+}

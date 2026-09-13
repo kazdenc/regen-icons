@@ -1,0 +1,2 @@
+{ "name": "align-left", "title": "Text", "categories": ["content", "controls"], "keywords": ["paragraph", "lines", "align", "notes", "description"],
+  "shapes": [{ "line": [4, 6, 20, 6] }, { "line": [4, 12, 14, 12] }, { "line": [4, 18, 17, 18] }] }

@@ -1,0 +1,2 @@
+{ "name": "chevron-down", "title": "Chevron down", "categories": ["navigation"], "keywords": ["expand", "open", "select", "caret"],
+  "shapes": [{ "polyline": [[5, 8.5], [12, 15.5], [19, 8.5]], "corner": 1 }] }

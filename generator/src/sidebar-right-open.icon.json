@@ -1,0 +1,38 @@
+{
+  "name": "sidebar-right-open",
+  "title": "Open right sidebar",
+  "categories": [
+    "navigation",
+    "controls"
+  ],
+  "keywords": [
+    "sidebar",
+    "panel",
+    "right",
+    "open",
+    "expand",
+    "drawer"
+  ],
+  "shapes": [
+    {
+      "use": "panel-right"
+    },
+    {
+      "polyline": [
+        [
+          10,
+          9
+        ],
+        [
+          7.5,
+          12
+        ],
+        [
+          10,
+          15
+        ]
+      ],
+      "corner": 1
+    }
+  ]
+}

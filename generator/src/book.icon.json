@@ -1,0 +1,2 @@
+{ "name": "book", "title": "Library", "categories": ["content", "entry-types"], "keywords": ["read", "guide", "documentation", "knowledge", "wiki", "manual"],
+  "shapes": [{ "polyline": [[12, 6], [12, 20]] }, { "polyline": [[12, 6], [7, 3], [3, 3], [3, 17], [7, 17], [12, 20]], "close": true }, { "polyline": [[12, 6], [17, 3], [21, 3], [21, 17], [17, 17], [12, 20]], "close": true }] }

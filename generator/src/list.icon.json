@@ -1,0 +1,2 @@
+{ "name": "list", "title": "List", "categories": ["content"], "keywords": ["bullets", "items", "rows"],
+  "shapes": [{ "dot": [4, 6] }, { "dot": [4, 12] }, { "dot": [4, 18] }, { "line": [8, 6, 20, 6] }, { "line": [8, 12, 20, 12] }, { "line": [8, 18, 20, 18] }] }

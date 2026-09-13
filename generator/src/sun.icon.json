@@ -1,0 +1,2 @@
+{ "name": "sun", "title": "Light theme", "categories": ["controls", "status"], "keywords": ["light", "day", "theme", "brightness", "mode"],
+  "shapes": [{ "circle": [12, 12, 4.5] }, { "line": [12, 2, 12, 4.5] }, { "line": [12, 19.5, 12, 22] }, { "line": [2, 12, 4.5, 12] }, { "line": [19.5, 12, 22, 12] }, { "line": [5, 5, 6.5, 6.5] }, { "line": [17.5, 17.5, 19, 19] }, { "line": [5, 19, 6.5, 17.5] }, { "line": [17.5, 6.5, 19, 5] }] }

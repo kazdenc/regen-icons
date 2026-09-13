@@ -1,0 +1,2 @@
+{ "name": "chevrons-up-down", "title": "Select", "categories": ["navigation", "controls"], "keywords": ["select", "sort", "expand", "combobox", "caret", "picker"],
+  "shapes": [{ "polyline": [[7, 9], [12, 4], [17, 9]], "corner": 1 }, { "polyline": [[7, 15], [12, 20], [17, 15]], "corner": 1 }] }

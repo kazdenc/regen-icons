@@ -1,0 +1,2 @@
+{ "name": "upload", "title": "Upload", "categories": ["actions"], "keywords": ["import", "send", "attach", "arrow up", "add file"],
+  "shapes": [{ "arrow": [12, 15, 12, 4] }, { "line": [4, 20, 20, 20] }] }

@@ -1,0 +1,3 @@
+{ "name": "contrast", "title": "Contrast", "categories": ["status", "content"], "keywords": ["colour", "color", "ratio", "legibility", "theme", "half"],
+  "shapes": [{ "use": "circle-frame" }, { "polyline": [[12, 3], { "to": [12, 21], "r": 9 }, [12, 3]], "close": true }],
+  "filled": [{ "polyline": [[12, 3], { "to": [12, 21], "r": 9 }, [12, 3]], "close": true }] }

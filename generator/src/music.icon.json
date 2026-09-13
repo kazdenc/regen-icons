@@ -1,0 +1,52 @@
+{
+  "name": "music",
+  "title": "Music",
+  "categories": [
+    "content",
+    "controls"
+  ],
+  "keywords": [
+    "audio",
+    "song",
+    "note",
+    "soundtrack"
+  ],
+  "shapes": [
+    {
+      "ellipse": [
+        6,
+        18,
+        3,
+        2.5
+      ]
+    },
+    {
+      "ellipse": [
+        18,
+        16,
+        3,
+        2.5
+      ]
+    },
+    {
+      "polyline": [
+        [
+          9,
+          18
+        ],
+        [
+          9,
+          6
+        ],
+        [
+          21,
+          3
+        ],
+        [
+          21,
+          16
+        ]
+      ]
+    }
+  ]
+}

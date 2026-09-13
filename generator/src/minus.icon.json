@@ -1,0 +1,2 @@
+{ "name": "minus", "title": "Minus", "categories": ["actions"], "keywords": ["remove", "subtract", "collapse"],
+  "shapes": [{ "line": [5, 12, 19, 12] }] }

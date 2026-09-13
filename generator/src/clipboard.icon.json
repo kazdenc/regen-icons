@@ -1,0 +1,3 @@
+{"name":"clipboard","title":"Clipboard","categories":["actions","content"],"keywords":["paste","task","checklist","brief","copy"],
+  "shapes": [{"polyline":[[9,5],[5,5],[5,21],[19,21],[19,5],[15,5]]},{"rect":[9,2,6,6]}],
+  "filled": [{"rect":[5,5,14,16]},{"rect":[9,2,6,6]}] }

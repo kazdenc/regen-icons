@@ -1,0 +1,42 @@
+{
+  "name": "skip-back",
+  "title": "Skip Back",
+  "categories": [
+    "actions",
+    "controls"
+  ],
+  "keywords": [
+    "media",
+    "track",
+    "playback",
+    "previous"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          19,
+          4
+        ],
+        [
+          8,
+          12
+        ],
+        [
+          19,
+          20
+        ]
+      ],
+      "close": true,
+      "corner": 1
+    },
+    {
+      "line": [
+        4,
+        4,
+        4,
+        20
+      ]
+    }
+  ]
+}

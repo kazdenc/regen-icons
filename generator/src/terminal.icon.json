@@ -1,0 +1,2 @@
+{ "name": "terminal", "title": "Terminal", "categories": ["content", "agent"], "keywords": ["console", "command", "shell", "cli", "prompt", "bash"],
+  "shapes": [{ "rect": [3, 4, 18, 16] }, { "polyline": [[7, 10], [10, 13], [7, 16]], "corner": 1 }, { "line": [13, 16, 17, 16] }] }

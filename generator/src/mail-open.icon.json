@@ -1,0 +1,57 @@
+{
+  "name": "mail-open",
+  "title": "Open mail",
+  "categories": [
+    "content",
+    "status"
+  ],
+  "keywords": [
+    "email",
+    "read",
+    "envelope",
+    "inbox"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          3,
+          9
+        ],
+        [
+          12,
+          3
+        ],
+        [
+          21,
+          9
+        ],
+        [
+          21,
+          21
+        ],
+        [
+          3,
+          21
+        ]
+      ],
+      "close": true
+    },
+    {
+      "polyline": [
+        [
+          3,
+          9
+        ],
+        [
+          12,
+          15
+        ],
+        [
+          21,
+          9
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "folder-plus",
+  "title": "New folder",
+  "categories": ["actions", "content"],
+  "keywords": ["directory", "collection", "create", "add", "new"],
+  "shapes": [
+    { "polyline": [[3, 5], [9, 5], [11, 7], [21, 7], [21, 19], [3, 19]], "close": true },
+    { "line": [8.5, 14, 15.5, 14] },
+    { "line": [12, 11, 12, 17] }
+  ]
+}

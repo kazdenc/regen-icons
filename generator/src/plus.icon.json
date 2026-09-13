@@ -1,0 +1,2 @@
+{ "name": "plus", "title": "Plus", "categories": ["actions"], "keywords": ["add", "new", "create"],
+  "shapes": [{ "line": [12, 5, 12, 19] }, { "line": [5, 12, 19, 12] }] }

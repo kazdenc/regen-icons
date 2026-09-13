@@ -1,0 +1,35 @@
+{
+  "name": "panel-bottom",
+  "title": "Bottom panel",
+  "categories": [
+    "content",
+    "navigation"
+  ],
+  "keywords": [
+    "layout",
+    "panel",
+    "drawer",
+    "toolbar",
+    "sidebar",
+    "bottom",
+    "orientation"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        3,
+        4,
+        18,
+        16
+      ]
+    },
+    {
+      "line": [
+        3,
+        14,
+        21,
+        14
+      ]
+    }
+  ]
+}

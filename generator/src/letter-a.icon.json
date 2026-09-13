@@ -1,0 +1,2 @@
+{ "name": "letter-a", "title": "Typography", "categories": ["content", "controls"], "keywords": ["type", "font", "text", "typeface", "scale", "letter"],
+  "shapes": [{ "polyline": [[5, 19], [12, 5], [19, 19]], "corner": 1 }, { "line": [8, 14, 16, 14] }] }

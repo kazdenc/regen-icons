@@ -1,0 +1,26 @@
+{
+  "name": "circle-arrow-left",
+  "title": "Circle arrow left",
+  "categories": [
+    "navigation"
+  ],
+  "keywords": [
+    "back",
+    "previous",
+    "direction"
+  ],
+  "shapes": [
+    {
+      "use": "circle-frame"
+    },
+    {
+      "arrow": [
+        16,
+        12,
+        8,
+        12
+      ],
+      "head": 3
+    }
+  ]
+}

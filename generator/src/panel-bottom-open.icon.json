@@ -1,0 +1,36 @@
+{
+  "name": "panel-bottom-open",
+  "title": "Open bottom panel",
+  "categories": [
+    "navigation",
+    "controls"
+  ],
+  "keywords": [
+    "sidebar",
+    "drawer",
+    "expand",
+    "bottom"
+  ],
+  "shapes": [
+    {
+      "use": "panel-bottom"
+    },
+    {
+      "polyline": [
+        [
+          9,
+          10
+        ],
+        [
+          12,
+          7.5
+        ],
+        [
+          15,
+          10
+        ]
+      ],
+      "corner": 1
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+{ "name": "download", "title": "Download", "categories": ["actions"], "keywords": ["save", "export", "get", "arrow down tray"],
+  "shapes": [{ "arrow": [12, 4, 12, 15] }, { "line": [4, 20, 20, 20] }] }

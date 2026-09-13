@@ -1,0 +1,11 @@
+{
+  "name": "battery",
+  "title": "Battery",
+  "categories": ["status"],
+  "keywords": ["charge", "energy", "level", "power"],
+  "shapes": [
+    { "rect": [2, 7, 17, 10] },
+    { "line": [22, 10, 22, 14] },
+    { "line": [6, 12, 12, 12] }
+  ]
+}

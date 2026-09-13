@@ -1,0 +1,12 @@
+{
+  "name": "printer",
+  "title": "Print",
+  "categories": ["actions", "content"],
+  "keywords": ["paper", "document", "hard copy"],
+  "shapes": [
+    { "rect": [6, 3, 12, 6], "radius": 1 },
+    { "rect": [3, 9, 18, 9] },
+    { "rect": [6, 15, 12, 6], "radius": 1 },
+    { "dot": [17, 12] }
+  ]
+}

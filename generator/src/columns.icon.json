@@ -1,0 +1,2 @@
+{ "name": "columns", "title": "Columns", "categories": ["content"], "keywords": ["layout", "grid", "split", "panes", "three column"],
+  "shapes": [{ "rect": [3, 4, 18, 16] }, { "line": [9, 4, 9, 20] }, { "line": [15, 4, 15, 20] }] }

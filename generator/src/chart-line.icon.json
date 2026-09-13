@@ -1,0 +1,55 @@
+{
+  "name": "chart-line",
+  "title": "Line chart",
+  "categories": [
+    "content",
+    "entry-types"
+  ],
+  "keywords": [
+    "analytics",
+    "trend",
+    "graph",
+    "metric",
+    "data"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          21
+        ],
+        [
+          21,
+          21
+        ]
+      ]
+    },
+    {
+      "polyline": [
+        [
+          7,
+          15
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          15,
+          13
+        ],
+        [
+          21,
+          5
+        ]
+      ],
+      "corner": 1
+    }
+  ],
+  "fill": "none"
+}

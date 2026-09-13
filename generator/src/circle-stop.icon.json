@@ -1,0 +1,28 @@
+{
+  "name": "circle-stop",
+  "title": "Circle stop",
+  "categories": [
+    "controls",
+    "actions"
+  ],
+  "keywords": [
+    "media",
+    "end",
+    "stop",
+    "recording"
+  ],
+  "shapes": [
+    {
+      "use": "circle-frame"
+    },
+    {
+      "rect": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radius": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "receipt",
+  "title": "Receipt",
+  "categories": ["content"],
+  "keywords": ["invoice", "purchase", "billing", "transaction"],
+  "shapes": [
+    { "polyline": [[5, 3], [19, 3], [19, 21], [16.5, 19], [14, 21], [12, 19], [9.5, 21], [7, 19], [5, 21]], "close": true, "corner": 1 },
+    { "line": [9, 8, 15, 8] },
+    { "line": [9, 13, 15, 13] }
+  ]
+}

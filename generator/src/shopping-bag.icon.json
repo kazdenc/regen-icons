@@ -1,0 +1,32 @@
+{
+  "name": "shopping-bag",
+  "title": "Shopping bag",
+  "categories": [
+    "content"
+  ],
+  "keywords": [
+    "cart",
+    "basket",
+    "store",
+    "purchase"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        4,
+        7,
+        16,
+        14
+      ]
+    },
+    {
+      "arc": [
+        12,
+        7,
+        4,
+        180,
+        0
+      ]
+    }
+  ]
+}

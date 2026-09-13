@@ -1,0 +1,41 @@
+{
+  "name": "wifi",
+  "title": "Wi-Fi",
+  "categories": [
+    "status",
+    "controls"
+  ],
+  "keywords": [
+    "wireless",
+    "network",
+    "connection",
+    "internet"
+  ],
+  "shapes": [
+    {
+      "arc": [
+        12,
+        18,
+        12,
+        225,
+        315
+      ]
+    },
+    {
+      "arc": [
+        12,
+        18,
+        7,
+        225,
+        315
+      ]
+    },
+    {
+      "circle": [
+        12,
+        18,
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "panel-right",
+  "title": "Right panel",
+  "categories": [
+    "content",
+    "navigation"
+  ],
+  "keywords": [
+    "layout",
+    "panel",
+    "drawer",
+    "toolbar",
+    "sidebar",
+    "right",
+    "orientation"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        3,
+        4,
+        18,
+        16
+      ]
+    },
+    {
+      "line": [
+        15,
+        4,
+        15,
+        20
+      ]
+    }
+  ]
+}

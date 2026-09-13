@@ -1,0 +1,54 @@
+{
+  "name": "refresh",
+  "title": "Retry",
+  "categories": [
+    "agent",
+    "actions"
+  ],
+  "keywords": [
+    "retry",
+    "reload",
+    "again",
+    "sync",
+    "rerun"
+  ],
+  "shapes": [
+    {
+      "arc": [
+        12,
+        12,
+        8,
+        45,
+        270
+      ]
+    },
+    {
+      "quad": [
+        12,
+        4,
+        17,
+        4,
+        19.5,
+        8.5
+      ]
+    },
+    {
+      "polyline": [
+        [
+          14,
+          9
+        ],
+        [
+          20,
+          9
+        ],
+        [
+          20,
+          3
+        ]
+      ],
+      "corner": 1
+    }
+  ],
+  "fill": "none"
+}

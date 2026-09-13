@@ -1,0 +1,58 @@
+{
+  "name": "mail-check",
+  "title": "Mail check",
+  "categories": [
+    "content",
+    "status"
+  ],
+  "keywords": [
+    "email",
+    "delivered",
+    "verified",
+    "confirmed"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        3,
+        5,
+        18,
+        16
+      ]
+    },
+    {
+      "polyline": [
+        [
+          4,
+          6.5
+        ],
+        [
+          12,
+          11
+        ],
+        [
+          20,
+          6.5
+        ]
+      ],
+      "corner": 1
+    },
+    {
+      "polyline": [
+        [
+          8,
+          15
+        ],
+        [
+          11,
+          18
+        ],
+        [
+          16,
+          13
+        ]
+      ],
+      "corner": 1
+    }
+  ]
+}

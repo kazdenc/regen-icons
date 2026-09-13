@@ -1,0 +1,2 @@
+{ "name": "pencil", "title": "Edit", "categories": ["actions"], "keywords": ["write", "rename", "change", "inline edit"],
+  "shapes": [{ "polyline": [[4, 20], [4, 16], [16, 4], [20, 8], [8, 20]], "close": true }, { "line": [13, 7, 17, 11] }] }

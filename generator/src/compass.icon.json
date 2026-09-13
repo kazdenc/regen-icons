@@ -1,0 +1,10 @@
+{
+  "name": "compass",
+  "title": "Compass",
+  "categories": ["navigation"],
+  "keywords": ["direction", "explore", "bearing", "navigate"],
+  "shapes": [
+    { "use": "circle-frame" },
+    { "polyline": [[15.5, 8.5], [13.5, 13.5], [8.5, 15.5], [10.5, 10.5]], "close": true, "corner": 1 }
+  ]
+}

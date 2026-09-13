@@ -1,0 +1,35 @@
+{
+  "name": "circle-pause",
+  "title": "Circle pause",
+  "categories": [
+    "actions",
+    "controls"
+  ],
+  "keywords": [
+    "media",
+    "hold",
+    "pause",
+    "playback"
+  ],
+  "shapes": [
+    {
+      "use": "circle-frame"
+    },
+    {
+      "line": [
+        9,
+        8,
+        9,
+        16
+      ]
+    },
+    {
+      "line": [
+        15,
+        8,
+        15,
+        16
+      ]
+    }
+  ]
+}

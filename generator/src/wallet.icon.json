@@ -1,0 +1,11 @@
+{
+  "name": "wallet",
+  "title": "Wallet",
+  "categories": ["content"],
+  "keywords": ["money", "payment", "balance", "finance"],
+  "shapes": [
+    { "rect": [3, 5, 18, 15] },
+    { "rect": [13, 10, 8, 6], "radius": 1 },
+    { "dot": [17, 13] }
+  ]
+}

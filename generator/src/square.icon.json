@@ -1,0 +1,2 @@
+{ "name": "square", "title": "Square", "categories": ["shapes", "controls"], "keywords": ["stop", "frame", "container", "base", "halt"],
+  "shapes": [{ "rect": [3, 3, 18, 18] }] }

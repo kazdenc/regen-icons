@@ -1,0 +1,2 @@
+{ "name": "grip", "title": "Drag handle", "categories": ["controls"], "keywords": ["drag", "handle", "reorder", "move", "dots"],
+  "shapes": [{ "circle": [9, 6, 1] }, { "circle": [15, 6, 1] }, { "circle": [9, 12, 1] }, { "circle": [15, 12, 1] }, { "circle": [9, 18, 1] }, { "circle": [15, 18, 1] }] }

@@ -1,0 +1,2 @@
+{ "name": "arrow-right", "title": "Arrow right", "categories": ["navigation"], "keywords": ["next", "forward", "continue"],
+  "shapes": [{ "arrow": [5, 12, 19, 12] }] }

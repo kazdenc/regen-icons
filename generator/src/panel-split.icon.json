@@ -1,0 +1,33 @@
+{
+  "name": "panel-split",
+  "title": "Split panels",
+  "categories": [
+    "navigation",
+    "content"
+  ],
+  "keywords": [
+    "sidebar",
+    "layout",
+    "split",
+    "panes",
+    "editor"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        3,
+        4,
+        18,
+        16
+      ]
+    },
+    {
+      "line": [
+        12,
+        4,
+        12,
+        20
+      ]
+    }
+  ]
+}

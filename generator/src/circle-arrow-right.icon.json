@@ -1,0 +1,2 @@
+{ "name": "circle-arrow-right", "title": "Handoff", "categories": ["agent", "navigation"], "keywords": ["handoff", "continue", "forward", "next step", "delegate"],
+  "shapes": [{ "use": "circle-frame" }, { "arrow": [8, 12, 16, 12], "head": 3 }] }

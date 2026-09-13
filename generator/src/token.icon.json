@@ -1,0 +1,2 @@
+{ "name": "token", "title": "Token", "categories": ["agent"], "keywords": ["tokens", "usage", "count", "cost", "credit", "hexagon"],
+  "shapes": [{ "polyline": [[12, 3], [20, 7.5], [20, 16.5], [12, 21], [4, 16.5], [4, 7.5]], "close": true }] }

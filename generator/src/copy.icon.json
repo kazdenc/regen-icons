@@ -1,0 +1,2 @@
+{ "name": "copy", "title": "Copy", "categories": ["actions"], "keywords": ["duplicate", "clipboard", "clone"],
+  "shapes": [{ "rect": [8, 8, 13, 13] }, { "polyline": [[16, 4], [4, 4], [4, 16]] }] }

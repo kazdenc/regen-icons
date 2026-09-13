@@ -1,0 +1,56 @@
+{
+  "name": "paperclip",
+  "title": "Paperclip",
+  "categories": [
+    "actions"
+  ],
+  "keywords": [
+    "attach",
+    "attachment",
+    "file"
+  ],
+  "shapes": [
+    {
+      "line": [
+        7,
+        8,
+        7,
+        17
+      ]
+    },
+    {
+      "arc": [
+        12,
+        17,
+        5,
+        0,
+        180
+      ]
+    },
+    {
+      "line": [
+        17,
+        17,
+        17,
+        6
+      ]
+    },
+    {
+      "arc": [
+        13.5,
+        6,
+        3.5,
+        180,
+        0
+      ]
+    },
+    {
+      "line": [
+        10,
+        6,
+        10,
+        15
+      ]
+    }
+  ]
+}

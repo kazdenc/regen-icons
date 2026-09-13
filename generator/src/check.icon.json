@@ -1,0 +1,2 @@
+{ "name": "check", "title": "Check", "categories": ["actions"], "keywords": ["tick", "done", "confirm", "selected"],
+  "shapes": [{ "polyline": [[4, 12], [9, 17], [20, 6]] }] }

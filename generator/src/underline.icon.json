@@ -1,0 +1,2 @@
+{ "name": "underline", "title": "Underline", "categories": ["controls"], "keywords": ["text", "toolbar"],
+  "shapes": [{ "line": [7, 4, 7, 10] }, { "arc": [12, 10, 5, 0, 180] }, { "line": [17, 4, 17, 10] }, { "line": [6, 20, 18, 20] }] }

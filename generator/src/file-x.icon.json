@@ -1,0 +1,75 @@
+{
+  "name": "file-x",
+  "title": "File x",
+  "categories": [
+    "content",
+    "status"
+  ],
+  "keywords": [
+    "document",
+    "rejected",
+    "error",
+    "cancel"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          13,
+          3
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          21
+        ],
+        [
+          19,
+          21
+        ],
+        [
+          19,
+          9
+        ]
+      ],
+      "close": true,
+      "corner": 1.5
+    },
+    {
+      "polyline": [
+        [
+          13,
+          4
+        ],
+        [
+          13,
+          9
+        ],
+        [
+          18,
+          9
+        ]
+      ],
+      "corner": 1
+    },
+    {
+      "line": [
+        9,
+        12,
+        15,
+        18
+      ]
+    },
+    {
+      "line": [
+        15,
+        12,
+        9,
+        18
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+{ "name": "accessibility", "title": "Accessibility", "categories": ["status", "content"], "keywords": ["a11y", "inclusive", "assistive", "disability", "wcag", "person"],
+  "shapes": [{ "use": "circle-frame" }, { "circle": [12, 7, 1] }, { "line": [8.5, 11, 15.5, 11] }, { "line": [12, 11, 12, 14] }, { "polyline": [[8.5, 17.5], [12, 14], [15.5, 17.5]], "corner": 1 }] }

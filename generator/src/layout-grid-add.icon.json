@@ -1,0 +1,2 @@
+{ "name": "layout-grid-add", "title": "Grid add", "categories": ["content"], "keywords": ["registry", "add", "new tile", "install"],
+  "shapes": [{ "rect": [3, 3, 7.5, 7.5] }, { "rect": [13.5, 3, 7.5, 7.5] }, { "rect": [3, 13.5, 7.5, 7.5] }, { "line": [14, 17.5, 20, 17.5] }, { "line": [17, 14.5, 17, 20.5] }] }

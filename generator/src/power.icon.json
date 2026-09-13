@@ -1,0 +1,10 @@
+{
+  "name": "power",
+  "title": "Power",
+  "categories": ["controls"],
+  "keywords": ["on", "off", "shutdown", "standby"],
+  "shapes": [
+    { "arc": [12, 13, 8, 315, 225] },
+    { "line": [12, 2, 12, 11] }
+  ]
+}

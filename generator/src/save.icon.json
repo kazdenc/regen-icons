@@ -1,0 +1,11 @@
+{
+  "name": "save",
+  "title": "Save",
+  "categories": ["actions"],
+  "keywords": ["disk", "floppy", "store", "persist"],
+  "shapes": [
+    { "polyline": [[3, 3], [17, 3], [21, 7], [21, 21], [3, 21]], "close": true },
+    { "rect": [7, 3, 9, 6], "radius": 1 },
+    { "rect": [7, 14, 10, 7], "radius": 1 }
+  ]
+}

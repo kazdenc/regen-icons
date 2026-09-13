@@ -1,0 +1,65 @@
+{
+  "name": "calendar-check",
+  "title": "Calendar check",
+  "categories": [
+    "content",
+    "status"
+  ],
+  "keywords": [
+    "scheduled",
+    "confirmed",
+    "appointment",
+    "booking"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        3,
+        5,
+        18,
+        16
+      ]
+    },
+    {
+      "line": [
+        3,
+        10,
+        21,
+        10
+      ]
+    },
+    {
+      "line": [
+        8,
+        3,
+        8,
+        7
+      ]
+    },
+    {
+      "line": [
+        16,
+        3,
+        16,
+        7
+      ]
+    },
+    {
+      "polyline": [
+        [
+          8,
+          15
+        ],
+        [
+          11,
+          18
+        ],
+        [
+          16,
+          13
+        ]
+      ],
+      "corner": 1
+    }
+  ]
+}

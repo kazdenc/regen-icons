@@ -1,0 +1,27 @@
+{
+  "name": "shield-minus",
+  "title": "Shield minus",
+  "categories": [
+    "status",
+    "agent"
+  ],
+  "keywords": [
+    "policy",
+    "blocked",
+    "restricted",
+    "protection"
+  ],
+  "shapes": [
+    {
+      "use": "shield"
+    },
+    {
+      "line": [
+        8,
+        12,
+        16,
+        12
+      ]
+    }
+  ]
+}

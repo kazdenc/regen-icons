@@ -1,0 +1,2 @@
+{ "name": "arrows-sort", "title": "Sort", "categories": ["controls", "navigation"], "keywords": ["order", "ascending", "descending", "rank", "reorder"],
+  "shapes": [{ "arrow": [7, 20, 7, 4], "head": 4 }, { "arrow": [17, 4, 17, 20], "head": 4 }] }

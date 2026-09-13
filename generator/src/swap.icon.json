@@ -1,0 +1,2 @@
+{ "name": "swap", "title": "Changed", "categories": ["agent", "actions"], "keywords": ["changed", "exchange", "replace", "diff", "update", "transfer"],
+  "shapes": [{ "arrow": [4, 8, 18, 8], "head": 4 }, { "arrow": [20, 16, 6, 16], "head": 4 }] }

@@ -1,0 +1,26 @@
+{
+  "name": "circle-arrow-down",
+  "title": "Circle arrow down",
+  "categories": [
+    "navigation"
+  ],
+  "keywords": [
+    "down",
+    "bottom",
+    "direction"
+  ],
+  "shapes": [
+    {
+      "use": "circle-frame"
+    },
+    {
+      "arrow": [
+        12,
+        8,
+        12,
+        16
+      ],
+      "head": 3
+    }
+  ]
+}

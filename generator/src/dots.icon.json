@@ -1,0 +1,2 @@
+{ "name": "dots", "title": "Streaming", "categories": ["agent", "status"], "keywords": ["streaming", "typing", "more", "ellipsis", "waiting", "menu"],
+  "shapes": [{ "circle": [5, 12, 1] }, { "circle": [12, 12, 1] }, { "circle": [19, 12, 1] }] }

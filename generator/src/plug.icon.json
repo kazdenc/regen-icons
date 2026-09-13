@@ -1,0 +1,64 @@
+{
+  "name": "plug",
+  "title": "Plug",
+  "categories": [
+    "content",
+    "controls"
+  ],
+  "keywords": [
+    "power",
+    "electric",
+    "connect",
+    "cable"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          6,
+          9
+        ],
+        [
+          18,
+          9
+        ],
+        [
+          18,
+          13
+        ],
+        {
+          "to": [
+            6,
+            13
+          ],
+          "r": 6
+        }
+      ],
+      "close": true
+    },
+    {
+      "line": [
+        8,
+        3,
+        8,
+        9
+      ]
+    },
+    {
+      "line": [
+        16,
+        3,
+        16,
+        9
+      ]
+    },
+    {
+      "line": [
+        12,
+        19,
+        12,
+        22
+      ]
+    }
+  ]
+}

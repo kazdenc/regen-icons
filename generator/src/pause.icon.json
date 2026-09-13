@@ -1,0 +1,2 @@
+{ "name": "pause", "title": "Pause", "categories": ["actions", "controls"], "keywords": ["hold", "suspend", "wait", "media", "interrupt"],
+  "shapes": [{ "rect": [6, 4, 4, 16] }, { "rect": [14, 4, 4, 16] }] }

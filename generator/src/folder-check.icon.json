@@ -1,0 +1,62 @@
+{
+  "name": "folder-check",
+  "title": "Folder check",
+  "categories": [
+    "content",
+    "status"
+  ],
+  "keywords": [
+    "directory",
+    "complete",
+    "reviewed",
+    "verified"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          3,
+          5
+        ],
+        [
+          9,
+          5
+        ],
+        [
+          11,
+          7
+        ],
+        [
+          21,
+          7
+        ],
+        [
+          21,
+          19
+        ],
+        [
+          3,
+          19
+        ]
+      ],
+      "close": true
+    },
+    {
+      "polyline": [
+        [
+          8,
+          13
+        ],
+        [
+          11,
+          16
+        ],
+        [
+          16,
+          11
+        ]
+      ],
+      "corner": 1
+    }
+  ]
+}

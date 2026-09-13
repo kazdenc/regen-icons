@@ -1,0 +1,51 @@
+{
+  "name": "external-link",
+  "title": "External link",
+  "categories": [
+    "navigation",
+    "actions"
+  ],
+  "keywords": [
+    "open",
+    "new tab",
+    "outbound",
+    "away",
+    "leave"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          9,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          21
+        ],
+        [
+          21,
+          21
+        ],
+        [
+          21,
+          15
+        ]
+      ]
+    },
+    {
+      "arrow": [
+        10,
+        14,
+        21,
+        3
+      ],
+      "head": 6
+    }
+  ],
+  "fill": "none"
+}

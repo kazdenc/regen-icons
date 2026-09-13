@@ -1,0 +1,49 @@
+{
+  "name": "bookmark-minus",
+  "title": "Bookmark minus",
+  "categories": [
+    "actions",
+    "content"
+  ],
+  "keywords": [
+    "remove",
+    "unsave",
+    "read later"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          6,
+          3
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          18,
+          21
+        ],
+        [
+          12,
+          16
+        ],
+        [
+          6,
+          21
+        ]
+      ],
+      "close": true,
+      "corner": 1
+    },
+    {
+      "line": [
+        9,
+        9,
+        15,
+        9
+      ]
+    }
+  ]
+}

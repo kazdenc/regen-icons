@@ -1,0 +1,38 @@
+{
+  "name": "sidebar-right-close",
+  "title": "Close right sidebar",
+  "categories": [
+    "navigation",
+    "controls"
+  ],
+  "keywords": [
+    "sidebar",
+    "panel",
+    "right",
+    "close",
+    "collapse",
+    "drawer"
+  ],
+  "shapes": [
+    {
+      "use": "panel-right"
+    },
+    {
+      "polyline": [
+        [
+          8,
+          9
+        ],
+        [
+          10.5,
+          12
+        ],
+        [
+          8,
+          15
+        ]
+      ],
+      "corner": 1
+    }
+  ]
+}

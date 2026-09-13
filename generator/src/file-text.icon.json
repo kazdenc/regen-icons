@@ -1,0 +1,76 @@
+{
+  "name": "file-text",
+  "title": "Document",
+  "categories": [
+    "content",
+    "entry-types"
+  ],
+  "keywords": [
+    "file",
+    "page",
+    "article",
+    "worked example",
+    "text"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          13,
+          3
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          21
+        ],
+        [
+          19,
+          21
+        ],
+        [
+          19,
+          9
+        ]
+      ],
+      "close": true,
+      "corner": 1.5
+    },
+    {
+      "polyline": [
+        [
+          13,
+          4
+        ],
+        [
+          13,
+          9
+        ],
+        [
+          18,
+          9
+        ]
+      ],
+      "corner": 1
+    },
+    {
+      "line": [
+        9,
+        13,
+        15,
+        13
+      ]
+    },
+    {
+      "line": [
+        9,
+        17,
+        15,
+        17
+      ]
+    }
+  ]
+}

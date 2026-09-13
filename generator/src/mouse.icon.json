@@ -1,0 +1,33 @@
+{
+  "name": "mouse",
+  "title": "Mouse",
+  "categories": [
+    "controls",
+    "content"
+  ],
+  "keywords": [
+    "pointer",
+    "input",
+    "device",
+    "scroll"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        6,
+        3,
+        12,
+        18
+      ],
+      "radius": 4
+    },
+    {
+      "line": [
+        12,
+        7,
+        12,
+        10
+      ]
+    }
+  ]
+}

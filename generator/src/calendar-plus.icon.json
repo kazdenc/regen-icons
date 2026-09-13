@@ -1,0 +1,64 @@
+{
+  "name": "calendar-plus",
+  "title": "Calendar plus",
+  "categories": [
+    "actions",
+    "content"
+  ],
+  "keywords": [
+    "date",
+    "add",
+    "new",
+    "appointment"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        3,
+        5,
+        18,
+        16
+      ]
+    },
+    {
+      "line": [
+        3,
+        10,
+        21,
+        10
+      ]
+    },
+    {
+      "line": [
+        8,
+        3,
+        8,
+        7
+      ]
+    },
+    {
+      "line": [
+        16,
+        3,
+        16,
+        7
+      ]
+    },
+    {
+      "line": [
+        8,
+        15.5,
+        16,
+        15.5
+      ]
+    },
+    {
+      "line": [
+        12,
+        13,
+        12,
+        18
+      ]
+    }
+  ]
+}

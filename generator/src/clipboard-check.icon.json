@@ -1,0 +1,87 @@
+{
+  "name": "clipboard-check",
+  "title": "Clipboard check",
+  "categories": [
+    "content",
+    "status"
+  ],
+  "keywords": [
+    "task",
+    "complete",
+    "checklist",
+    "reviewed"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          9,
+          5
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          5,
+          21
+        ],
+        [
+          19,
+          21
+        ],
+        [
+          19,
+          5
+        ],
+        [
+          15,
+          5
+        ]
+      ]
+    },
+    {
+      "rect": [
+        9,
+        2,
+        6,
+        6
+      ]
+    },
+    {
+      "polyline": [
+        [
+          8,
+          14
+        ],
+        [
+          11,
+          17
+        ],
+        [
+          16,
+          12
+        ]
+      ],
+      "corner": 1
+    }
+  ],
+  "filled": [
+    {
+      "rect": [
+        5,
+        5,
+        14,
+        16
+      ]
+    },
+    {
+      "rect": [
+        9,
+        2,
+        6,
+        6
+      ]
+    }
+  ]
+}

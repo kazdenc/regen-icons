@@ -1,0 +1,2 @@
+{ "name": "code", "title": "Code", "categories": ["content"], "keywords": ["brackets", "developer", "source", "snippet", "markup"],
+  "shapes": [{ "polyline": [[8, 7], [3, 12], [8, 17]], "corner": 1 }, { "polyline": [[16, 7], [21, 12], [16, 17]], "corner": 1 }, { "line": [13.5, 4, 10.5, 20] }] }

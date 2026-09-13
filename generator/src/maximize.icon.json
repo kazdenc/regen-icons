@@ -1,0 +1,2 @@
+{ "name": "maximize", "title": "Expand", "categories": ["controls", "actions"], "keywords": ["fullscreen", "enlarge", "corners", "grow", "open"],
+  "shapes": [{ "polyline": [[3, 9], [3, 3], [9, 3]] }, { "polyline": [[15, 3], [21, 3], [21, 9]] }, { "polyline": [[21, 15], [21, 21], [15, 21]] }, { "polyline": [[9, 21], [3, 21], [3, 15]] }] }

@@ -1,0 +1,2 @@
+{ "name": "corner-down-left", "title": "Corner down left", "categories": ["navigation", "controls"], "keywords": ["enter", "return", "keyboard", "submit", "newline"],
+  "shapes": [{ "polyline": [[19, 5], [19, 15], [6, 15]] }, { "polyline": [[10, 11], [6, 15], [10, 19]], "corner": 1 }] }

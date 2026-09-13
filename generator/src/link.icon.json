@@ -1,0 +1,75 @@
+{
+  "name": "link",
+  "title": "Link",
+  "categories": [
+    "actions",
+    "content"
+  ],
+  "keywords": [
+    "chain",
+    "url",
+    "anchor",
+    "connect",
+    "permalink"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          11,
+          7
+        ],
+        [
+          14,
+          4
+        ],
+        {
+          "to": [
+            20,
+            10
+          ],
+          "r": 4.5
+        },
+        [
+          17,
+          13
+        ]
+      ],
+      "corner": 1
+    },
+    {
+      "polyline": [
+        [
+          7,
+          11
+        ],
+        [
+          4,
+          14
+        ],
+        {
+          "to": [
+            10,
+            20
+          ],
+          "r": 4.5,
+          "flip": true
+        },
+        [
+          13,
+          17
+        ]
+      ],
+      "corner": 1
+    },
+    {
+      "line": [
+        8.5,
+        15.5,
+        15.5,
+        8.5
+      ]
+    }
+  ],
+  "fill": "none"
+}

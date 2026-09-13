@@ -1,0 +1,76 @@
+{
+  "name": "file-check",
+  "title": "File check",
+  "categories": [
+    "content",
+    "status"
+  ],
+  "keywords": [
+    "document",
+    "complete",
+    "reviewed",
+    "verified"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          13,
+          3
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          21
+        ],
+        [
+          19,
+          21
+        ],
+        [
+          19,
+          9
+        ]
+      ],
+      "close": true,
+      "corner": 1.5
+    },
+    {
+      "polyline": [
+        [
+          13,
+          4
+        ],
+        [
+          13,
+          9
+        ],
+        [
+          18,
+          9
+        ]
+      ],
+      "corner": 1
+    },
+    {
+      "polyline": [
+        [
+          9,
+          14
+        ],
+        [
+          11,
+          16
+        ],
+        [
+          15,
+          12
+        ]
+      ],
+      "corner": 1
+    }
+  ]
+}

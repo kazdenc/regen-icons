@@ -1,0 +1,2 @@
+{ "name": "bell", "title": "Notifications", "categories": ["controls"], "keywords": ["alert", "notify", "ring", "reminder"],
+  "shapes": [{ "arc": [12, 10, 5, 180, 0] }, { "line": [7, 10, 7, 15] }, { "line": [17, 10, 17, 15] }, { "polyline": [[7, 15], [5, 18], [19, 18], [17, 15]] }, { "arc": [12, 19, 2, 0, 180] }] }

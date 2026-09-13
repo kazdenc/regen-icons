@@ -1,0 +1,2 @@
+{ "name": "help-circle", "title": "Help", "categories": ["status", "entry-types"], "keywords": ["question", "support", "question bank", "faq"],
+  "shapes": [{ "use": "circle-frame" }, { "arc": [12, 10, 3, 180, 90] }, { "line": [12, 13, 12, 14] }, { "dot": [12, 17] }] }

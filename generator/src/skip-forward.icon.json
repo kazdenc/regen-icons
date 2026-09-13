@@ -1,0 +1,42 @@
+{
+  "name": "skip-forward",
+  "title": "Skip Forward",
+  "categories": [
+    "actions",
+    "controls"
+  ],
+  "keywords": [
+    "media",
+    "track",
+    "playback",
+    "next"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          5,
+          4
+        ],
+        [
+          16,
+          12
+        ],
+        [
+          5,
+          20
+        ]
+      ],
+      "close": true,
+      "corner": 1
+    },
+    {
+      "line": [
+        20,
+        4,
+        20,
+        20
+      ]
+    }
+  ]
+}

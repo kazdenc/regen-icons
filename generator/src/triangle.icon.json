@@ -1,0 +1,30 @@
+{
+  "name": "triangle",
+  "title": "Triangle",
+  "categories": [
+    "shapes"
+  ],
+  "keywords": [
+    "polygon",
+    "geometry"
+  ],
+  "shapes": [
+    {
+      "polyline": [
+        [
+          12,
+          3
+        ],
+        [
+          22,
+          21
+        ],
+        [
+          2,
+          21
+        ]
+      ],
+      "close": true
+    }
+  ]
+}

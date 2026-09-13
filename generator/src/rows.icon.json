@@ -1,0 +1,2 @@
+{ "name": "rows", "title": "Rows", "categories": ["content"], "keywords": ["table", "items", "layout", "stack"],
+  "shapes": [{ "rect": [3, 5, 18, 14] }, { "line": [3, 12, 21, 12] }] }
