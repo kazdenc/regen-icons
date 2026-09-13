@@ -39,7 +39,7 @@ test("review matrix covers all sizes, weights, themes and only available forms",
 });
 
 test("single-file validation rejects a filename that the full build would reject", () => {
-  const dir = fs.mkdtempSync(path.join(os.tmpdir(), "lino-icon-check-"));
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), "regen-icon-check-"));
   try {
     const source = fs.readFileSync(path.join(root, "src/check.icon.json"));
     const good = path.join(dir, "check.icon.json"), bad = path.join(dir, "wrong.icon.json");

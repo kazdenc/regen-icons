@@ -1,4 +1,4 @@
-# Lino Icons
+# Regen Icons
 
 Read [AGENTS.md](AGENTS.md) and [docs/spec.md](docs/spec.md) before changing an icon.
 

@@ -1,7 +1,6 @@
-# Lino Icons
+# Regen Icons
 
-Lino Icons is a set of 225 MIT-licensed outline icons. They share a 24px grid,
-rounded caps and joins, and a consistent two-pixel stroke.
+Regen Icons is a set of 225 MIT-licensed outline icons for agent-built interfaces. They share a 24px grid, rounded caps and joins, and a consistent two-pixel stroke.
 
 ## npm package
 
@@ -9,11 +8,11 @@ The package build is ready for a future npm release. Until it is published, use 
 ready-to-use files in [`../svg/`](../svg/) or work from this repository.
 
 ```sh
-npm install lino-icons
+npm install regen-icons
 ```
 
 After release, the package will support React 18 or later and include TypeScript
-types. Use the equivalent `pnpm add lino-icons` or `yarn add lino-icons` command if
+types. Use the equivalent `pnpm add regen-icons` or `yarn add regen-icons` command if
 that is your package manager.
 
 ## Use with React
@@ -22,7 +21,7 @@ Import the icon by name. Each icon is a separate export, so modern bundlers only
 include the icons your application uses.
 
 ```tsx
-import { IconCheck, IconChevronDown } from "lino-icons";
+import { IconCheck, IconChevronDown } from "regen-icons";
 
 // Decorative beside visible text. It is hidden from assistive technology.
 <IconCheck />
@@ -35,7 +34,7 @@ import { IconCheck, IconChevronDown } from "lino-icons";
 ```
 
 Icons use `currentColor`, so set their colour on the icon or a parent. Named sizes
-use `--lino-icon-xs`, `--lino-icon-sm`, `--lino-icon-md`, and `--lino-icon-lg`
+use `--regen-icon-xs`, `--regen-icon-sm`, `--regen-icon-md`, and `--regen-icon-lg`
 when defined; otherwise they fall back to the pixel sizes above. Closed icons may
 also have a tonal filled variant, such as `IconCircleCheckFilled`.
 
@@ -54,7 +53,7 @@ The package also includes raw SVG files, a sprite, and a searchable catalog:
 ```
 
 Your build tool should copy those assets to a public location. The catalog at
-`lino-icons/icons.json` provides each icon's name, keywords, categories, and file
+`regen-icons/icons.json` provides each icon's name, keywords, categories, and file
 URLs, which is useful for building an icon picker or search.
 
 ## Develop or contribute

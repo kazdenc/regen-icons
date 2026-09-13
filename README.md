@@ -6,6 +6,8 @@ Regen Icons is a focused set of 225 outline icons on a consistent 24px grid. Eve
 
 Regen is released under the [MIT License](LICENSE) as a contribution to the commons. Use it, adapt it, and help it grow.
 
+![Regen Icons contact sheet](assets/regen-icons.png)
+
 ## Use the icons
 
 Browse the primary set in [svg/outline](svg/outline). Each icon is a plainly named, standalone SVG you can copy into a project or drag into a design tool. Tonal variants for closed shapes live separately in [svg/filled](svg/filled).
@@ -38,4 +40,3 @@ The publishable npm package is prepared as `regen-icons` but has not been publis
 ## Project
 
 Source, issues, and contributions: [github.com/kazdenc/regen-icons](https://github.com/kazdenc/regen-icons)
-# regen-icons

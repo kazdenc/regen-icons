@@ -7,7 +7,7 @@ import path from "node:path";
 import { execFileSync } from "node:child_process";
 import { compile, emit, projectRoot, root } from "./build-icons.mjs";
 
-const version = process.env.LINO_ICONS_VERSION ?? "0.1.0";
+const version = process.env.REGEN_ICONS_VERSION ?? "0.1.0";
 const out = path.join(root, "dist", "package");
 const dist = path.join(root, "dist");
 
@@ -27,13 +27,15 @@ export function buildPackage({ quiet = false } = {}) {
     path.join(out, "package.json"),
     JSON.stringify(
       {
-        name: "lino-icons",
+        name: "regen-icons",
         version,
         description: `${icons.length} outline icons on a 24 grid, generated from a drawing language so every icon shares one weight, one corner treatment, and one arrow.`,
         keywords: ["icons", "svg", "react", "outline", "design-system", "agent-ux"],
-        homepage: "https://linoicons.com",
+        homepage: "https://github.com/kazdenc/regen-icons#readme",
+        repository: { type: "git", url: "git+https://github.com/kazdenc/regen-icons.git" },
+        bugs: { url: "https://github.com/kazdenc/regen-icons/issues" },
         license: "MIT",
-        author: "Lino Icons contributors",
+        author: "Regen Icons contributors",
         type: "module",
         // One named export per icon and no side effects, so a bundler keeps only what
         // a page uses.
@@ -77,7 +79,7 @@ export function buildPackage({ quiet = false } = {}) {
   fs.rmSync(path.join(out, "src"), { recursive: true, force: true });
 
   const exported = (fs.readFileSync(path.join(out, "index.d.ts"), "utf8").match(/declare const Icon\w+/g) ?? []).length;
-  if (!quiet) console.log(`icons: package lino-icons ${version} with ${exported} exports written to dist/package`);
+  if (!quiet) console.log(`icons: package regen-icons ${version} with ${exported} exports written to dist/package`);
   return { out, version, exported, count: icons.length };
 }
 

@@ -85,7 +85,7 @@ function setSheet(icons) {
   const toggle = (kind, values, selected) => `<div class="toggle">${values.map(([value, label]) => `<button type="button" data-toggle="${kind}" data-value="${value}" aria-pressed="${value === selected}">${label}</button>`).join("")}</div>`;
   return page(`<body data-size="24" data-theme="light" data-form="outline">
     <main class="catalog">
-      <header><h1>Lino Icons</h1>
+      <header><h1>Regen Icons</h1>
         <div class="tools">${toggle("size", sizes.map((size) => [size, `${size}px`]), 24)}${toggle("theme", [["light", "Light"], ["dark", "Dark"]], "light")}${toggle("form", [["outline", "Outline"], ["filled", "Filled"]], "outline")}<input id="search" type="search" placeholder="Filter by name" autofocus></div>
       </header>
       <div class="grid" id="icons">${icons.map(cell).join("")}</div>

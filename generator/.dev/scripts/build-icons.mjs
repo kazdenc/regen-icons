@@ -376,7 +376,7 @@ export function validate(icon, geometry, byName) {
 }
 
 // The tint under a filled icon: current colour at the tone token, 0.2 by default.
-const tonePath = (d) => `<path fill="currentColor" stroke="none" style="opacity:var(--lino-icon-tone,.2)" d="${d}"/>`;
+const tonePath = (d) => `<path fill="currentColor" stroke="none" style="opacity:var(--regen-icon-tone,.2)" d="${d}"/>`;
 // Finder's SVG renderer does not reliably resolve CSS variables. Raw asset files use
 // a literal opacity so their thumbnails match their intended tonal appearance.
 const rawTonePath = (d) => `<path fill="currentColor" stroke="none" opacity=".2" d="${d}"/>`;
@@ -464,7 +464,7 @@ export function emit({ icons, report }) {
     "",
     "export function Svg({ size = \"sm\", weight, label, children, ...rest }: IconProps & { children: React.ReactNode }) {",
     "  const n = typeof size === \"number\" ? size : px[size];",
-    "  const dim = typeof size === \"number\" ? size : `var(--lino-icon-${size}, ${n}px)`;",
+    "  const dim = typeof size === \"number\" ? size : `var(--regen-icon-${size}, ${n}px)`;",
     "  const paint = { fill: \"none\", stroke: \"currentColor\", strokeWidth: weight ?? (n >= 24 ? 1.75 : 2), strokeLinecap: \"round\" as const, strokeLinejoin: \"round\" as const };",
     "  return (",
     "    <svg",
@@ -484,8 +484,8 @@ export function emit({ icons, report }) {
     "",
     ...icons.map((i) => `export const Icon${pascal(i.name)} = (p: IconProps) => <Svg {...p}>${jsx(i.paths.join(""))}</Svg>;`),
     "",
-    "// Filled twins: the enclosed shape tinted at --lino-icon-tone (0.2) under the outline.",
-    "const Tone = ({ d }: { d: string }) => <path fill=\"currentColor\" stroke=\"none\" style={{ opacity: \"var(--lino-icon-tone, .2)\" }} d={d} />;",
+    "// Filled twins: the enclosed shape tinted at --regen-icon-tone (0.2) under the outline.",
+    "const Tone = ({ d }: { d: string }) => <path fill=\"currentColor\" stroke=\"none\" style={{ opacity: \"var(--regen-icon-tone, .2)\" }} d={d} />;",
     ...icons.filter((i) => i.filled).map((i) => `export const Icon${pascal(i.name)}Filled = (p: IconProps) => <Svg {...p}><Tone d="${i.filled}" />${jsx(i.paths.join(""))}</Svg>;`),
     "",
     "export const icons = {",
@@ -593,14 +593,14 @@ icons a page uses.
 Install it first:
 
 \`\`\`sh
-npm install lino-icons
+npm install regen-icons
 \`\`\`
 
-Use \`pnpm add lino-icons\` or \`yarn add lino-icons\` when appropriate. The package has
+Use \`pnpm add regen-icons\` or \`yarn add regen-icons\` when appropriate. The package has
 TypeScript types and supports React 18 or later.
 
 \`\`\`tsx
-import { IconCheck, IconChevronDown } from "lino-icons";
+import { IconCheck, IconChevronDown } from "regen-icons";
 
 <IconCheck />                       // 16px, decorative, hidden from assistive technology
 <IconCheck size="md" />             // 20px; sizes: xs 12, sm 16, md 20, lg 24, or a number
@@ -608,7 +608,7 @@ import { IconCheck, IconChevronDown } from "lino-icons";
 <IconChevronDown weight={1.5} />    // stroke 1.5; default is 2 up to 20px and 1.75 at 24px
 \`\`\`
 
-Sizes map to the \`--lino-icon-*\` tokens when they are present and fall back to pixels.
+Sizes map to the \`--regen-icon-*\` tokens when they are present and fall back to pixels.
 Width and height are always set, so an icon never shifts layout while it loads.
 
 - An icon beside a text label is decorative: leave \`label\` off.
@@ -625,19 +625,19 @@ catalog. Use the SVG files or sprite in any stack; they do not need React.
 
 ## Without React
 
-Outline SVG files live at \`lino-icons/svg/outline/<name>.svg\`. The sprite at
-\`lino-icons/sprite.svg\` exposes every icon as a symbol for
+Outline SVG files live at \`regen-icons/svg/outline/<name>.svg\`. The sprite at
+\`regen-icons/sprite.svg\` exposes every icon as a symbol for
 \`<use href="sprite.svg#check">\`; it is a second request and does not cross origins,
 so prefer inline SVG when you can.
 
-The catalog at \`lino-icons/icons.json\` lists every icon with keywords,
+The catalog at \`regen-icons/icons.json\` lists every icon with keywords,
 categories, and file URLs. Search it before drawing a new icon.
 
 ## Filled twins
 
 Icons with a closed shape also ship a filled form: \`IconCircleCheckFilled\`,
 \`svg/filled/circle-check.svg\`, sprite id \`circle-check-filled\`. It is tonal: the
-enclosed shape is tinted with the current colour at \`--lino-icon-tone\` (0.2 by default)
+enclosed shape is tinted with the current colour at \`--regen-icon-tone\` (0.2 by default)
 under the same outline, so the drawing stays legible and the icon reads as active or
 selected. Set the token on a container to tune the tint; keep it under 0.35 so the
 outline stays the figure. Icons made only of open strokes (arrows, chevrons, check)

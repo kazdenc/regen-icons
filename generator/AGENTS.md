@@ -1,6 +1,6 @@
-# Lino Icons agent guide
+# Regen Icons agent guide
 
-Lino Icons is a source-first icon library. The canonical drawings are
+Regen Icons is a source-first icon library. The canonical drawings are
 `src/<name>.icon.json`; never edit generated files in `dist/` or `../svg/`.
 
 Before changing icon geometry, read [docs/spec.md](docs/spec.md). It defines the drawing language,

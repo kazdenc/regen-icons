@@ -1,4 +1,4 @@
-# Drawing Lino Icons
+# Drawing Regen Icons
 
 Updated: 2026-09-09. This is the canonical authoring guide. The build embeds it in
 `dist/icons.md` and the npm package includes it as its README. Edit this guide, not those generated copies.
@@ -230,7 +230,7 @@ or a bounding box under 12. `.dev/scripts/preview.mjs` prints the notes for the 
 ## Filled twins
 
 Icons with a closed shape get a filled form automatically. It is tonal, not solid: the
-union of the closed shapes is tinted with the current colour at `--lino-icon-tone` (0.2)
+union of the closed shapes is tinted with the current colour at `--regen-icon-tone` (0.2)
 under the same outline, so the drawing stays legible and the icon reads as active. A
 solid silhouette loses the glyph. Set `"fill": "none"` to opt out, or give a `"filled"`
 shape list when the union is not the right reading.

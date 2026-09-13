@@ -1,5 +1,5 @@
 {
-  "name": "lino-icons",
+  "name": "regen-icons",
   "private": true,
   "scripts": {
     "preview": "pnpm --dir generator preview",

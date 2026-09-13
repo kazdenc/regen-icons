@@ -1,8 +1,8 @@
 {
-  "name": "lino-icons-source",
+  "name": "regen-icons-source",
   "version": "0.1.0",
   "private": true,
-  "description": "Source, generator, and drawing language for Lino Icons. Publishes lino-icons from dist/package.",
+  "description": "Source, generator, and drawing language for Regen Icons. Publishes regen-icons from dist/package.",
   "type": "module",
   "license": "MIT",
   "scripts": {

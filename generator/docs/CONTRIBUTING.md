@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping improve Lino Icons. Contributions can add an icon, refine an
+Thanks for helping improve Regen Icons. Contributions can add an icon, refine an
 existing drawing, improve documentation, or fix the generator.
 
 ## Before you start
@@ -13,11 +13,11 @@ review process.
 ## Development workflow
 
 1. Fork the repository and create a focused branch.
-2. Install dependencies with `pnpm install`.
-3. Change the canonical source in `src/`; do not edit generated files in `dist/` or `../svg/`.
+2. From the repository root, run `cd generator` and then `pnpm install`.
+3. Change the canonical source in `src/`; never hand-edit generated files in `dist/` or `../svg/`.
 4. Validate an icon with `pnpm check src/<name>.icon.json`.
 5. Review it beside related icons with `pnpm preview <name> <neighbour> --matrix`.
-6. Run `pnpm test` before opening a pull request.
+6. Run `pnpm test` before opening a pull request. It regenerates `../svg/`; commit those SVG changes, but leave `dist/` out of the pull request.
 
 Keep one visual idea per pull request. For an icon addition or geometry change, include
 the icon name, the neighbouring icons used for comparison, and a preview image or a
@@ -26,7 +26,7 @@ existing category names.
 
 ## Pull requests
 
-Explain the user-facing change, keep generated output out of the diff, and make sure
+Explain the user-facing change, include regenerated public SVGs, leave `dist/` out of the diff, and make sure
 all checks pass. Maintainers review construction rules, optical consistency at small
 sizes, metadata, and the public API before merging.
 

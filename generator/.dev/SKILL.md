@@ -1,9 +1,9 @@
 ---
-name: lino-icons
-description: Create or refine Lino Icons with its JSON drawing language and SVG compiler, matching the existing family. Use for additions, geometry edits, and icon-generation workflow work in the Lino Icons repository.
+name: regen-icons
+description: Create or refine Regen Icons with its JSON drawing language and SVG compiler, matching the existing family. Use for additions, geometry edits, and icon-generation workflow work in the Regen Icons repository.
 ---
 
-# Lino Icons
+# Regen Icons
 
 Locate the repository root containing `.dev/scripts/build-icons.mjs` and
 `docs/spec.md` from the current checkout. If invoked elsewhere, use the
