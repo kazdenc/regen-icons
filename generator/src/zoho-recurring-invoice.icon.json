@@ -1,0 +1,66 @@
+{
+  "name": "zoho-recurring-invoice",
+  "title": "Recurring Invoice",
+  "categories": [
+    "content"
+  ],
+  "keywords": [
+    "recurring",
+    "invoice",
+    "subscription",
+    "repeat"
+  ],
+  "shapes": [
+    {
+      "rect": [
+        4,
+        2,
+        16,
+        18
+      ],
+      "radius": 2
+    },
+    {
+      "line": [
+        8,
+        8,
+        16,
+        8
+      ]
+    },
+    {
+      "line": [
+        8,
+        12,
+        14,
+        12
+      ]
+    },
+    {
+      "arc": [
+        12,
+        22,
+        4,
+        180,
+        360
+      ]
+    },
+    {
+      "polyline": [
+        [
+          9,
+          19
+        ],
+        [
+          12,
+          22
+        ],
+        [
+          15,
+          19
+        ]
+      ],
+      "corner": 1
+    }
+  ]
+}
